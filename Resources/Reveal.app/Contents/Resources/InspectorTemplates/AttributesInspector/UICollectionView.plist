@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionTitle</key>
+	<string>UICollectionView</string>
+	<key>SubSections</key>
+	<array>
+		<dict>
+			<key>SubSectionName</key>
+			<string></string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>numberOfSections</string>
+				<string>allowsSelection</string>
+				<string>allowsMultipleSelection</string>
+				<string>remembersLastFocusedIndexPath</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Drag and Drop</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>reorderingCadence</string>
+				<string>dragInteractionEnabled</string>
+				<string>springLoaded</string>
+				<string>hasUncommittedUpdates</string>
+				<string>hasActiveDrag</string>
+				<string>hasActiveDrop</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

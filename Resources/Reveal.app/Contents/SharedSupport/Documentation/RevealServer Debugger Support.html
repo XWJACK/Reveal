@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>RevealServer Debugger Support</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      html{color:#333;line-height:1.6;font-size:112.5%;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}p,ul,ol,blockquote,iframe,img,pre{margin-bottom:2rem}a{color:#138adc;cursor:pointer}a:hover{color:#0b4f7e}a:active{color:#031420}h1{color:black;font-size:2rem;line-height:1.2;font-weight:normal;margin-bottom:1rem;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}h2{color:#333;line-height:1.4;font-size:1.5rem;font-weight:normal;margin-bottom:1rem;margin-top:3rem;padding-bottom:1rem;border-bottom:1px solid #dcdcde;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}h3{color:#8E8E93;line-height:1.4;font-size:1.2rem;font-weight:normal;margin-bottom:1rem;margin-top:2rem;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}h4{color:black;font-weight:500;margin-bottom:1rem;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}h5{color:#8E8E93;line-height:1;font-size:1rem;margin-bottom:1rem;font-weight:normal;letter-spacing:.2rem;text-transform:uppercase;font-family:"Avenir Next",-apple-system,BlinkMacSystemFont,"Roboto","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}blockquote{color:#74747a;border-left:1rem solid #f6f6f7;padding-left:1rem;margin-left:-2rem;margin-top:2rem;margin-bottom:2rem}ul,ol{margin-left:-1rem;padding-left:1rem;margin-top:2rem;margin-bottom:2rem}li p{margin-bottom:1rem}img{max-width:150%;margin-left:-25%;margin-top:1rem;margin-bottom:2rem;border-radius:4px;box-shadow:0 1px 2px rgba(0,0,0,0.1),0 5px 15px rgba(0,0,0,0.15)}time{color:#8E8E93;display:block;font-weight:500;font-size:0.8rem;margin-bottom:.5rem}code{color:green;margin:0 .2rem;border-radius:4px;background:#f1f1f1;padding:.2rem .5rem;border:1px solid #e1e1e1;word-break:keep-all;white-space:pre}pre{margin:0 .2rem;border-radius:4px;background:#f1f1f1;padding:.5rem;border:1px solid #e1e1e1;overflow-y:scroll}pre code{background:none;border:none;padding:0}td{padding:.5rem;border-bottom:1px solid #8E8E93}hr{border:none;height:1px;width:100%;background-color:#8E8E93}b,strong{font-weight:500}body{max-width:640px;margin:0 auto;padding:4rem 2rem}@media (max-width: 1000px){img{max-width:100%;margin-left:auto;margin-right:auto}}
+    </style>
+</head>
+<body class="normal firstload">
+    <div id="wrapper"><h4><a href="Integrating Using Breakpoints.html">&laquo; Load the Reveal Server via an Xcode Breakpoint</a></h4>
+<h1>Reveal Server Debugger Support</h1>
+<p>Reveal provides a set of debugger commands accessible from the LLDB console (including Xcode's <strong>Debug Console</strong>) once installed. These commands allow loading and controlling the Reveal Server library in the current debug session without having to write code or command aliases.</p>
+<h2>Installation</h2>
+<p>To install Reveal Server commands into your debugger, open Reveal's <strong>Help</strong> menu and click <strong>Install Debugger Commands…</strong> Confirming the installation will add the following lines into your <code>~/.lldbinit</code> file, creating it if necessary:</p>
+
+<pre><code>### Reveal LLDB commands support - DO NOT MODIFY
+command script import /Applications/Reveal.app/Contents/SharedSupport/Scripts/RevealServerCommands.py
+###</code></pre>
+<p>This command imports a Python script bundled with Reveal into all your debug sessions. <a href="../Scripts/RevealServerCommands.py">The script</a> implements functionality required to load, start and stop Reveal Server in the Simulator and on device. Note that the command directly references your Reveal installation path: if you move Reveal to a different location, it will offer to update the command.</p>
+<p>If you wish, you can copy and paste this command manually into your <code>~/.lldbinit</code> file instead, changing <code>/Applications/Reveal.app</code> path to the location where you installed Reveal, if necessary. Please note that unless you include the full code snippet with comments, Reveal will not detect your manual installation and will not prompt you if you move it to a different location.</p>
+<h2>Removal</h2>
+<p>To remove the Reveal Server commands from your debugger, open Reveal's <strong>Help</strong> menu again and click <strong>Remove Debugger Commands…</strong> This will remove the snippet previously inserted in your <code>~/.lldbinit</code> file.</p>
+<p>Note that both installation and removal processes move the original <code>~/.lldbinit</code> file to Trash, renaming it to <code>lldbinit.pre-reveal-backup</code>.</p>
+<h2>Available commands</h2>
+<p>While the easiest way to use Reveal Server debugger commands is to follow the <a href="Integrating Using Breakpoints.html">Load the Reveal Server via an Xcode Breakpoint</a> guide, these commands also allow you to control the Server during debugging:</p>
+<h3><code>reveal load</code></h3>
+<p>Loads the Reveal Server library in the current debug session. If you're debugging in the iOS or tvOS Simulator, this command will use the framework bundled with Reveal directly. When debugging on device, the command will look for <code>RevealServer.framework</code> package in your app's resources. If you've followed the instructions in the <strong>Debugging on device</strong> section of the <a href="Integrating Using Breakpoints.html">Load the Reveal Server via an Xcode Breakpoint</a> guide, your app will already contain that resource.</p>
+<p>To start Reveal Server automatically after loading it, use the <code>--autostart</code> (or <code>-a</code>) flag, e.g. <code>reveal load --autostart</code>.</p>
+<h3><code>reveal start</code></h3>
+<p>Starts Reveal Server. Normally this happens automatically if the Server is loaded during application startup (e.g. in <code>UIApplicationMain</code> breakpoint), and also every time your app becomes active. However, if you would like to load and control Reveal Server manually, you can use this command to start it easily after you load it using <code>reveal load</code> command or by other means.</p>
+<h3><code>reveal stop</code></h3>
+<p>Stops Reveal Server, if it was previously started. You can restart it later using <code>reveal start</code> command.</p>
+<h3><code>reveal status</code></h3>
+<p>Prints the current status of Reveal Server: whether it's loaded and running, and also its protocol version.</p>
+<h2>Getting Help</h2>
+<p>If you have any problems or questions about using Reveal Server commands with your app, <a href="http://support.revealapp.com">head over to our support site</a>.</p>
+</div>
+</body>
+</html>

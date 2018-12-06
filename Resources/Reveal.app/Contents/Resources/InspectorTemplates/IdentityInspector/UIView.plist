@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionTitle</key>
+	<string>UIView</string>
+	<key>SubSections</key>
+	<array>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Identity</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>restorationIdentifier</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>View Controller</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<dict>
+					<key>AttributeName</key>
+					<string>iba_viewControllerName</string>
+					<key>TransformerName</key>
+					<string>IBADemanglingAttributeTransformer</string>
+				</dict>
+				<string>iba_viewControllerMemoryAddress</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Accessibility</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>isAccessibilityElement</string>
+				<string>shouldGroupAccessibilityChildren</string>
+				<string>accessibilityTraits</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string></string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>accessibilityActivationPoint</string>
+				<string>accessibilityFrame</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string></string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>accessibilityContainerType</string>
+				<string>accessibilityLabel</string>
+				<string>accessibilityValue</string>
+				<string>accessibilityHint</string>
+				<string>accessibilityIdentifier</string>
+				<string>accessibilityLanguage</string>
+				<string>accessibilityViewIsModal</string>
+				<string>accessibilityElementsHidden</string>
+				<string>accessibilityIgnoresInvertColors</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionTitle</key>
+	<string>Layout</string>
+	<key>SubSections</key>
+	<array>
+		<dict>
+			<key>SubSectionName</key>
+			<string></string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>frame</string>
+				<string>bounds</string>
+				<string>position</string>
+				<string>zPosition</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Anchor</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>anchorPoint</string>
+				<string>anchorPointZ</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

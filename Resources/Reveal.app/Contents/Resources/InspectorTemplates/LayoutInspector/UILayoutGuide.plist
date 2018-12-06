@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionTitle</key>
+	<string>UILayoutGuide</string>
+	<key>SubSections</key>
+	<array>
+		<dict>
+			<key>SubSectionName</key>
+			<string></string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<string>identifier</string>
+				<string>layoutFrame</string>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Layout Report</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<dict>
+					<key>ViewModelName</key>
+					<string>IBALayoutIssuesInspectorViewModel</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Participating Constraints Affecting Layout</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<dict>
+					<key>ViewModelName</key>
+					<string>IBAParticipatingConstraintsAffectingLayoutInspectorViewModel</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>SubSectionName</key>
+			<string>Other Participating Constraints</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<dict>
+					<key>ViewModelName</key>
+					<string>IBAOtherParticipatingConstraintsInspectorViewModel</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

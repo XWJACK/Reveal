@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionTitle</key>
+	<string>UILayoutGuide</string>
+	<key>SubSections</key>
+	<array>
+		<dict>
+			<key>SubSectionName</key>
+			<string>View Controller</string>
+			<key>SubSectionAttributes</key>
+			<array>
+				<dict>
+					<key>AttributeName</key>
+					<string>iba_viewControllerName</string>
+					<key>TransformerName</key>
+					<string>IBADemanglingAttributeTransformer</string>
+				</dict>
+				<string>iba_viewControllerMemoryAddress</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
