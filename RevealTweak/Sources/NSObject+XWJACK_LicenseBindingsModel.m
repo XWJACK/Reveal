@@ -7,6 +7,7 @@
 //
 
 #import "NSObject+XWJACK_LicenseBindingsModel.h"
+#import "MethodHelper.h"
 #import <objc/objc.h>
 
 @implementation NSObject (XWJACK_LicenseBindingsModel)

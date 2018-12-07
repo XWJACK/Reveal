@@ -7,6 +7,8 @@
 //
 
 #import "NSObject+XWJACK_Foundataion.h"
+#import "MethodHelper.h"
+#import <JRSwizzle/JRSwizzle.h>
 
 @implementation NSObject (XWJACK_Foundataion)
 
@@ -28,16 +30,20 @@
     return hook_data;
 }
 
-- (NSString *)hook_initWithBytes:(const void *)bytes length:(NSUInteger)len encoding:(NSStringEncoding)encoding {
-    NSString *hook_string = [self hook_initWithBytes:bytes length:len encoding:encoding];
-    return hook_string;
-}
-
+//- (NSString *)hook_initWithBytesNoCopy:(void *)bytes length:(NSUInteger)len encoding:(NSStringEncoding)encoding freeWhenDone:(BOOL)freeBuffer {
+//    NSString *hook_string = [self hook_initWithBytesNoCopy:bytes length:len encoding:encoding freeWhenDone:freeBuffer];
+//    NSLog(@"%@", hook_string);
+//    return hook_string;
+//}
 + (void)load {
     NSLog(@"XWJACK Begin hook Foundation");
     
-    xwjack_hookClassMethod(objc_getClass("NSURLConnection"), @selector(sendSynchronousRequest:returningResponse:error:), self.class, @selector(hook_sendSynchronousRequest:returningResponse:error:));
+//    xwjack_hookMethod(objc_getClass("NSString"), @selector(initWithBytesNoCopy:length:encoding:freeWhenDone:), self.class, @selector(hook_initWithBytesNoCopy:length:encoding:freeWhenDone:));
     
-    xwjack_hookMethod(objc_getClass("NSString"), @selector(initWithBytes:length:encoding:), self.class, @selector(hook_initWithBytes:length:encoding:));
+//    [NSString jr_swizzleMethod:@selector(initWithBytesNoCopy:length:encoding:freeWhenDone:) withMethod:@selector(hook_initWithBytesNoCopy:length:encoding:freeWhenDone:) error:nil];
+    
+    
+    [NSURLConnection jr_swizzleClassMethod:@selector(sendSynchronousRequest:returningResponse:error:) withClassMethod:@selector(hook_sendSynchronousRequest:returningResponse:error:) error:nil];
+    
 }
 @end

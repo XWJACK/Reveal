@@ -20,6 +20,7 @@
 		04E2FA2621B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA2421B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m */; };
 		04E2FA2921B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA2721B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h */; };
 		04E2FA2A21B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */; };
+		D3E906E776C87526BE066A96 /* libPods-RevealTweak.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C54A10D46FE3F4BEFF6605AD /* libPods-RevealTweak.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,7 +39,9 @@
 		04E2FA2421B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_Foundataion.m"; sourceTree = "<group>"; };
 		04E2FA2721B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+XWJACK_LicenseBindingsModel.h"; sourceTree = "<group>"; };
 		04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_LicenseBindingsModel.m"; sourceTree = "<group>"; };
-		04E2FA2B21B94E47003DEB82 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		1C2A5338647836600C6632FC /* Pods-RevealTweak.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RevealTweak.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RevealTweak/Pods-RevealTweak.debug.xcconfig"; sourceTree = "<group>"; };
+		241D19650AACDC45AA269665 /* Pods-RevealTweak.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RevealTweak.release.xcconfig"; path = "Pods/Target Support Files/Pods-RevealTweak/Pods-RevealTweak.release.xcconfig"; sourceTree = "<group>"; };
+		C54A10D46FE3F4BEFF6605AD /* libPods-RevealTweak.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RevealTweak.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +50,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E2FA1B21B91EDE003DEB82 /* libsubstitute.dylib in Frameworks */,
+				D3E906E776C87526BE066A96 /* libPods-RevealTweak.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +63,7 @@
 				04E2F9FF21B91E5B003DEB82 /* RevealTweak */,
 				04E2F9FE21B91E5B003DEB82 /* Products */,
 				04E2FA1921B91EDE003DEB82 /* Frameworks */,
+				E8E622C6EE17FA7CBD53F340 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,7 +88,6 @@
 		04E2FA0821B91E63003DEB82 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				04E2FA2B21B94E47003DEB82 /* PrefixHeader.pch */,
 				04E2FA0021B91E5B003DEB82 /* RevealTweak.h */,
 				04E2FA0121B91E5B003DEB82 /* Info.plist */,
 			);
@@ -131,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				04E2FA1A21B91EDE003DEB82 /* libsubstitute.dylib */,
+				C54A10D46FE3F4BEFF6605AD /* libPods-RevealTweak.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -145,6 +150,15 @@
 				04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */,
 			);
 			path = Sources;
+			sourceTree = "<group>";
+		};
+		E8E622C6EE17FA7CBD53F340 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1C2A5338647836600C6632FC /* Pods-RevealTweak.debug.xcconfig */,
+				241D19650AACDC45AA269665 /* Pods-RevealTweak.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,6 +184,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04E2FA0521B91E5B003DEB82 /* Build configuration list for PBXNativeTarget "RevealTweak" */;
 			buildPhases = (
+				749A73BF711A06777691415A /* [CP] Check Pods Manifest.lock */,
 				04E2F9F821B91E5B003DEB82 /* Headers */,
 				04E2F9F921B91E5B003DEB82 /* Sources */,
 				04E2F9FA21B91E5B003DEB82 /* Frameworks */,
@@ -232,17 +247,31 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-			);
-			outputFileListPaths = (
 			);
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\napp_name=\"Reveal\"\ndes_macho_path=\"${SRCROOT}/Resources/${app_name}.app/Contents/MacOS\"\ndes_framewotk_path=\"${SRCROOT}/Resources/${app_name}.app/Contents/Frameworks\"\n\ntweak_name=\"RevealTweak\"\nsubstitute_dylib=\"libsubstitute.dylib\"\n\n\nori_macho=\"${SRCROOT}/Resources/${app_name}\"\nori_tweak_framework=\"${BUILT_PRODUCTS_DIR}/${tweak_name}.framework\"\nori_substitute_dylib=\"${BUILT_PRODUCTS_DIR}/libs/${substitute_dylib}\"\n\n\ndes_tweak_framework=\"${des_framewotk_path}/${tweak_name}.framework\"\ndes_substitute_dylib=\"${des_macho_path}/${substitute_dylib}\"\ndes_macho=\"${des_macho_path}/${app_name}\"\n\n\nrm -rf \"$des_tweak_framework\"\necho \"XWJACK Remove ${des_tweak_framework}\"\nrm -rf \"$des_substitute_dylib\"\necho \"XWJACK Remove ${des_substitute_dylib}\"\nrm -rf \"$des_macho\"\necho \"XWJACK Remove ${des_macho}\"\n\n# Copy libsubstitute to Framework\ncp -rf \"${SRCROOT}/libs/libsubstitute.dylib\" \"${des_substitute_dylib}\"\necho \"XWJACK Copy ${SRCROOT}/libs/libsubstitute.dylib to ${des_substitute_dylib}\"\n\ncp -rf \"$ori_tweak_framework\" \"$des_tweak_framework\"\necho \"XWJACK Copy ${ori_tweak_framework} to ${des_tweak_framework}\"\n\n#${SRCROOT}/Tools/insert_dylib --all-yes \"@rpath/${substitute_dylib}\" \"${ori_macho}\" \"${des_macho}_t\"\n${SRCROOT}/Tools/insert_dylib --all-yes \"@rpath/${tweak_name}.framework/${tweak_name}\" \"${ori_macho}\" \"${des_macho}\"\n\n#rm -rf \"${des_macho}_t\"\n";
+		};
+		749A73BF711A06777691415A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RevealTweak-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -382,6 +411,7 @@
 		};
 		04E2FA0621B91E5B003DEB82 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C2A5338647836600C6632FC /* Pods-RevealTweak.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
@@ -411,6 +441,7 @@
 		};
 		04E2FA0721B91E5B003DEB82 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 241D19650AACDC45AA269665 /* Pods-RevealTweak.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
