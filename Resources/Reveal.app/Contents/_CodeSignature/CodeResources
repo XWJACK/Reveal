@@ -1243,6 +1243,15 @@
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.ittybittyapps.Reveal2.RevealCanvas" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
 		</dict>
+		<key>Frameworks/RevealTweak.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Xnv498bNl2L92InmAanw6f1CRb8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.xwjack.RevealTweak" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: xuwenjiejack@gmail.com (FD29X4RY4A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
 		<key>Frameworks/RxAtomic.framework</key>
 		<dict>
 			<key>cdhash</key>
@@ -1479,6 +1488,15 @@
 			<data>
 			ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 			</data>
+		</dict>
+		<key>MacOS/libsubstitute.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5bJcE5rietqjbXxGdnWBTvMFnHY=
+			</data>
+			<key>requirement</key>
+			<string>identifier libsubstitute and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: xuwenjiejack@gmail.com (FD29X4RY4A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/ActivationWindowController.nib</key>
 		<dict>

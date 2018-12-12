@@ -11,7 +11,7 @@
 
 static int (*ori_sub_1003a4c76)(void);
 static int hook_sub_1003a4c76() {
-    NSLog(@"XWJACK Hook sign check.");
+    NSLog(@"🍇 XWJACK Hook sign check.");
     return 1;
 }
 
@@ -21,9 +21,5 @@ static int hook_sub_1003a4c76() {
 //}
 
 static void __attribute__((constructor)) initialize(void) {
-    NSLog(@"XWJACK Begin hook c function");
-    
     MSHookFunction((void*)(0x00000001003a4c76 + _dyld_get_image_vmaddr_slide(0)), (void *)&hook_sub_1003a4c76, (void *)&ori_sub_1003a4c76);
-    
-//    MSHookFunction((void*)(0x00000001001fe2a0 + _dyld_get_image_vmaddr_slide(0)), (void *)&hook_sub_1001fe2a0, (void *)&ori_sub_1001fe2a0);
 }

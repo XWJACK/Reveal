@@ -7,7 +7,7 @@
 //
 
 #import "NSObject+XWJACK_LicenseBindingsModel.h"
-#import "MethodHelper.h"
+#import "ReverseMethodHelper.h"
 #import <objc/objc.h>
 
 @implementation NSObject (XWJACK_LicenseBindingsModel)
@@ -32,14 +32,18 @@
     return @"xwjack";
 }
 
+- (NSString *)hook_licenseActivationIdText {
+    return @"xwjack";
+}
+
 + (void)load {
-    NSLog(@"XWJACK Begin hook LicenseBindingsModel");
     Class hookClass = objc_getClass("Reveal.LicenseBindingsModel");
     xwjack_hookMethod(hookClass, @selector(isCommercialLicense), self.class, @selector(hook_isCommercialLicense));
     xwjack_hookMethod(hookClass, @selector(licensePeriodExpired), self.class, @selector(hook_licensePeriodExpired));
     xwjack_hookMethod(hookClass, @selector(upgradeLicenseMenuItemVisible), self.class, @selector(hook_upgradeLicenseMenuItemVisible));
     xwjack_hookMethod(hookClass, @selector(licenseEmail), self.class, @selector(hook_licenseEmail));
     xwjack_hookMethod(hookClass, @selector(licenseName), self.class, @selector(hook_licenseName));
+    xwjack_hookMethod(hookClass, @selector(licenseActivationIdText), self.class, @selector(hook_licenseActivationIdText));
 }
 
 @end

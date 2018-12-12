@@ -1,6 +1,0 @@
-framework module RevealTweak {
-  umbrella header "RevealTweak.h"
-
-  export *
-  module * { export * }
-}
