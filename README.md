@@ -11,7 +11,7 @@ MacOS 10.14.3
 
 # Usage
 
-Drag **Reveal/Resources/Reveal.app** to **Application**.
+Download from [Release](https://github.com/XWJACK/Reveal/releases).
 
 # Develop
 
