@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface NSObject (XWJACK_DMActivationController)
-
+- (void)setCurrentStep:(long long)arg0;
 @end
 
 NS_ASSUME_NONNULL_END

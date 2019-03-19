@@ -10,13 +10,13 @@
 		04E2FA0221B91E5B003DEB82 /* RevealTweak.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA0021B91E5B003DEB82 /* RevealTweak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04E2FA1221B91EC8003DEB82 /* fishhook.c in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA0B21B91EC8003DEB82 /* fishhook.c */; };
 		04E2FA1321B91EC8003DEB82 /* fishhook.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA0C21B91EC8003DEB82 /* fishhook.h */; };
-		04E2FA1821B91ED8003DEB82 /* substrate.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA1721B91ED8003DEB82 /* substrate.h */; };
-		04E2FA1B21B91EDE003DEB82 /* libsubstitute.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04E2FA1A21B91EDE003DEB82 /* libsubstitute.dylib */; };
 		04E2FA2021B91F02003DEB82 /* RevealTweak.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA1E21B91F02003DEB82 /* RevealTweak.m */; };
 		04E2FA2521B92A86003DEB82 /* NSObject+XWJACK_Foundataion.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA2321B92A86003DEB82 /* NSObject+XWJACK_Foundataion.h */; };
 		04E2FA2621B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA2421B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m */; };
 		04E2FA2921B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA2721B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h */; };
 		04E2FA2A21B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */; };
+		04EF7A8622412B2B00EB6B6A /* substrate.h in Headers */ = {isa = PBXBuildFile; fileRef = 04EF7A8522412B2B00EB6B6A /* substrate.h */; };
+		04EF7A8822412B3C00EB6B6A /* libsubstitute.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04EF7A8722412B3C00EB6B6A /* libsubstitute.dylib */; };
 		04FC060F21BF5DE80033B569 /* ReverseBegin.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FC060E21BF5DE80033B569 /* ReverseBegin.m */; };
 		04FC061221BF5E1F0033B569 /* ReverseMethodHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 04FC061021BF5E1F0033B569 /* ReverseMethodHelper.h */; };
 		04FC061321BF5E1F0033B569 /* ReverseMethodHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FC061121BF5E1F0033B569 /* ReverseMethodHelper.m */; };
@@ -28,18 +28,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		040443D321EE27B4008E4C6F /* reverse.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = reverse.sh; path = Tools/reverse.sh; sourceTree = SOURCE_ROOT; };
 		04E2F9FD21B91E5B003DEB82 /* RevealTweak.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RevealTweak.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E2FA0021B91E5B003DEB82 /* RevealTweak.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RevealTweak.h; sourceTree = "<group>"; };
 		04E2FA0121B91E5B003DEB82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E2FA0B21B91EC8003DEB82 /* fishhook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = fishhook.c; sourceTree = "<group>"; };
 		04E2FA0C21B91EC8003DEB82 /* fishhook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fishhook.h; sourceTree = "<group>"; };
-		04E2FA1721B91ED8003DEB82 /* substrate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = substrate.h; path = libs/substrate.h; sourceTree = SOURCE_ROOT; };
-		04E2FA1A21B91EDE003DEB82 /* libsubstitute.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsubstitute.dylib; path = libs/libsubstitute.dylib; sourceTree = "<group>"; };
 		04E2FA1E21B91F02003DEB82 /* RevealTweak.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RevealTweak.m; sourceTree = "<group>"; };
 		04E2FA2321B92A86003DEB82 /* NSObject+XWJACK_Foundataion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+XWJACK_Foundataion.h"; sourceTree = "<group>"; };
 		04E2FA2421B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_Foundataion.m"; sourceTree = "<group>"; };
 		04E2FA2721B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+XWJACK_LicenseBindingsModel.h"; sourceTree = "<group>"; };
 		04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_LicenseBindingsModel.m"; sourceTree = "<group>"; };
+		04EF7A8522412B2B00EB6B6A /* substrate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = substrate.h; path = RevealTweak/Core/substrate.h; sourceTree = SOURCE_ROOT; };
+		04EF7A8722412B3C00EB6B6A /* libsubstitute.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsubstitute.dylib; path = RevealTweak/Core/libsubstitute.dylib; sourceTree = "<group>"; };
 		04FC060E21BF5DE80033B569 /* ReverseBegin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReverseBegin.m; sourceTree = "<group>"; };
 		04FC061021BF5E1F0033B569 /* ReverseMethodHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverseMethodHelper.h; sourceTree = "<group>"; };
 		04FC061121BF5E1F0033B569 /* ReverseMethodHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReverseMethodHelper.m; sourceTree = "<group>"; };
@@ -57,7 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E2FA1B21B91EDE003DEB82 /* libsubstitute.dylib in Frameworks */,
+				04EF7A8822412B3C00EB6B6A /* libsubstitute.dylib in Frameworks */,
 				D3E906E776C87526BE066A96 /* libPods-RevealTweak.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -96,6 +97,7 @@
 		04E2FA0821B91E63003DEB82 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				040443D321EE27B4008E4C6F /* reverse.sh */,
 				04E2FA0021B91E5B003DEB82 /* RevealTweak.h */,
 				04E2FA0121B91E5B003DEB82 /* Info.plist */,
 			);
@@ -107,7 +109,7 @@
 			children = (
 				04FC061021BF5E1F0033B569 /* ReverseMethodHelper.h */,
 				04FC061121BF5E1F0033B569 /* ReverseMethodHelper.m */,
-				04E2FA1721B91ED8003DEB82 /* substrate.h */,
+				04EF7A8522412B2B00EB6B6A /* substrate.h */,
 				04FC060E21BF5DE80033B569 /* ReverseBegin.m */,
 				04E2FA0C21B91EC8003DEB82 /* fishhook.h */,
 				04E2FA0B21B91EC8003DEB82 /* fishhook.c */,
@@ -118,7 +120,7 @@
 		04E2FA1921B91EDE003DEB82 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				04E2FA1A21B91EDE003DEB82 /* libsubstitute.dylib */,
+				04EF7A8722412B3C00EB6B6A /* libsubstitute.dylib */,
 				C54A10D46FE3F4BEFF6605AD /* libPods-RevealTweak.a */,
 			);
 			name = Frameworks;
@@ -158,9 +160,9 @@
 			files = (
 				04E2FA2921B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.h in Headers */,
 				04FC061221BF5E1F0033B569 /* ReverseMethodHelper.h in Headers */,
+				04EF7A8622412B2B00EB6B6A /* substrate.h in Headers */,
 				04E2FA0221B91E5B003DEB82 /* RevealTweak.h in Headers */,
 				04E2FA2521B92A86003DEB82 /* NSObject+XWJACK_Foundataion.h in Headers */,
-				04E2FA1821B91ED8003DEB82 /* substrate.h in Headers */,
 				04E2FA1321B91EC8003DEB82 /* fishhook.h in Headers */,
 				04FC061621BF8A070033B569 /* NSObject+XWJACK_NSApplication.h in Headers */,
 				04FC061A21BFC5F60033B569 /* NSObject+XWJACK_DMActivationController.h in Headers */,
@@ -243,7 +245,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\napp_name=\"Reveal\"\ndes_macho_path=\"${SRCROOT}/Resources/${app_name}.app/Contents/MacOS\"\ndes_framewotk_path=\"${SRCROOT}/Resources/${app_name}.app/Contents/Frameworks\"\nCODE_SIGN_IDENTITY=\"AE3DCB2018AADE6F5038DE83BB735EFD49F4A58B\"\n\ntweak_name=\"RevealTweak\"\nsubstitute_dylib=\"libsubstitute.dylib\"\n\n\nori_macho=\"${SRCROOT}/Resources/${app_name}\"\nori_tweak_framework=\"${BUILT_PRODUCTS_DIR}/${tweak_name}.framework\"\nori_substitute_dylib=\"${BUILT_PRODUCTS_DIR}/libs/${substitute_dylib}\"\n\n\ndes_tweak_framework=\"${des_framewotk_path}/${tweak_name}.framework\"\ndes_substitute_dylib=\"${des_macho_path}/${substitute_dylib}\"\ndes_macho=\"${des_macho_path}/${app_name}\"\n\n\nrm -rf \"$des_tweak_framework\"\necho \"XWJACK Remove ${des_tweak_framework}\"\nrm -rf \"$des_substitute_dylib\"\necho \"XWJACK Remove ${des_substitute_dylib}\"\nrm -rf \"$des_macho\"\necho \"XWJACK Remove ${des_macho}\"\n\n# Copy libsubstitute to Framework\ncp \"${SRCROOT}/libs/libsubstitute.dylib\" \"${des_substitute_dylib}\"\necho \"XWJACK Copy ${SRCROOT}/libs/libsubstitute.dylib to ${des_substitute_dylib}\"\n\ncp -R -H \"$ori_tweak_framework\" \"$des_tweak_framework\"\necho \"XWJACK Copy ${ori_tweak_framework} to ${des_tweak_framework}\"\n\n${SRCROOT}/Tools/insert_dylib --all-yes \"@rpath/${tweak_name}.framework/${tweak_name}\" \"${ori_macho}\" \"${des_macho}\"\n\n# Sign\n/usr/bin/codesign --verbose=4 -f -s \"$CODE_SIGN_IDENTITY\" \"$des_substitute_dylib\"\n/usr/bin/codesign --verbose=4 -f -s \"$CODE_SIGN_IDENTITY\" \"$des_tweak_framework\"\n# Sign app\n/usr/bin/codesign --verbose=4 -f -s \"$CODE_SIGN_IDENTITY\" \"${SRCROOT}/Resources/${app_name}.app\"\n";
+			shellScript = "./Tools/reverse.sh\n";
 		};
 		749A73BF711A06777691415A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -424,6 +426,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/Core",
+					"$(PROJECT_DIR)/RevealTweak/Core",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.xwjack.RevealTweak;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -454,6 +458,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/Core",
+					"$(PROJECT_DIR)/RevealTweak/Core",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.xwjack.RevealTweak;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";

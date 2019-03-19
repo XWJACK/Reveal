@@ -44,6 +44,6 @@
     
     [NSURLConnection jr_swizzleClassMethod:@selector(sendSynchronousRequest:returningResponse:error:) withClassMethod:@selector(hook_sendSynchronousRequest:returningResponse:error:) error:nil];
     
-    [NSJSONSerialization jr_swizzleClassMethod:@selector(dataWithJSONObject:options:error:) withClassMethod:@selector(hook_dataWithJSONObject:options:error:) error:nil];
+//    [NSJSONSerialization jr_swizzleClassMethod:@selector(dataWithJSONObject:options:error:) withClassMethod:@selector(hook_dataWithJSONObject:options:error:) error:nil];
 }
 @end

@@ -1247,7 +1247,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Xnv498bNl2L92InmAanw6f1CRb8=
+			OmF/y7am/dvtjskJKJj2H7PxC5c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.xwjack.RevealTweak" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: xuwenjiejack@gmail.com (FD29X4RY4A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
