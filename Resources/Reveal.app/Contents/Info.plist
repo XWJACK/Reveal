@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppCenterAppSecret</key>
+	<string>2e0d1bd6-45fd-4a98-a659-e9d7b75b580e</string>
 	<key>BuildMachineOSBuild</key>
-	<string>18B75</string>
+	<string>18E226</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>
@@ -28,7 +30,7 @@
 			<key>LSTypeIsPackage</key>
 			<integer>1</integer>
 			<key>NSDocumentClass</key>
-			<string>IBARevealDocument</string>
+			<string>Reveal.RevealDocument</string>
 		</dict>
 		<dict>
 			<key>CFBundleTypeExtensions</key>
@@ -62,7 +64,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>20</string>
+	<string>22</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -70,25 +72,21 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>11340</string>
-	<key>CountlyAPIKey</key>
-	<string>4a56e41faefdc208bfae7b88e14f5d1b133aaee2</string>
-	<key>CountlyURL</key>
-	<string>https://analytics.revealapp.com</string>
+	<string>12224</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10B61</string>
+	<string>10E1001</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>18B71</string>
+	<string>18E219</string>
 	<key>DTSDKName</key>
 	<string>macosx10.14</string>
 	<key>DTXcode</key>
-	<string>1010</string>
+	<string>1020</string>
 	<key>DTXcodeBuild</key>
-	<string>10B61</string>
+	<string>10E1001</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.developer-tools</string>
 	<key>LSMinimumSystemVersion</key>

@@ -31,7 +31,7 @@
 			<array>
 				<dict>
 					<key>ViewModelName</key>
-					<string>IBALayoutIssuesInspectorViewModel</string>
+					<string>Reveal.LayoutIssuesInspectorViewModel</string>
 				</dict>
 			</array>
 		</dict>

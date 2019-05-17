@@ -22,7 +22,7 @@
 			<array>
 				<dict>
 					<key>ViewModelName</key>
-					<string>IBALayoutIssuesInspectorViewModel</string>
+					<string>Reveal.LayoutIssuesInspectorViewModel</string>
 				</dict>
 			</array>
 		</dict>
@@ -33,7 +33,7 @@
 			<array>
 				<dict>
 					<key>ViewModelName</key>
-					<string>IBAParticipatingConstraintsAffectingLayoutInspectorViewModel</string>
+					<string>Reveal.ParticipatingConstraintsAffectingLayoutInspectorViewModel</string>
 				</dict>
 			</array>
 		</dict>
@@ -44,7 +44,7 @@
 			<array>
 				<dict>
 					<key>ViewModelName</key>
-					<string>IBAOtherParticipatingConstraintsInspectorViewModel</string>
+					<string>Reveal.OtherParticipatingConstraintsInspectorViewModel</string>
 				</dict>
 			</array>
 		</dict>

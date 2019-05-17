@@ -10,23 +10,23 @@
 		</data>
 		<key>Resources/AnnualSupportApplicationBuildTooNewWelcomeStepController.nib</key>
 		<data>
-		MyiENXjeN+c7hVc9tZG9j3+bqTA=
+		mwsSYKXb3/u7tY9ogM7xDI1QbvU=
 		</data>
 		<key>Resources/AnnualSupportFailureStepController.nib</key>
 		<data>
-		NxioOejMCWJVgNFWTENsm4TvSJo=
+		pZ6fhJforgakwer3buFRrLtKW7k=
 		</data>
 		<key>Resources/AnnualSupportStatusWelcomeStepController.nib</key>
 		<data>
-		UfOcNz/DUj1q0tjd1fssxuSwI+M=
+		blxVzolpzUooXlDg1u6cDLwSC4M=
 		</data>
 		<key>Resources/Application.storyboardc/Info.plist</key>
 		<data>
-		1VwpV9wGOpTU3PwrYZ+Lot4KU68=
+		/o/FNuqdV0kxBG8WV8ke1phJWDI=
 		</data>
 		<key>Resources/Application.storyboardc/MainMenu.nib</key>
 		<data>
-		voB9dBAZ0c9MJG1jiyD2+zDjrMk=
+		0AEpKDA1yNN2IhwYXEr0sF/+bEQ=
 		</data>
 		<key>Resources/Application.storyboardc/NSViewController-FZa-44-WHi.nib</key>
 		<data>
@@ -34,35 +34,71 @@
 		</data>
 		<key>Resources/Application.storyboardc/NSWindowController-dlQ-MK-f2T.nib</key>
 		<data>
-		BQIe2kSqB1FKkcSnR7+xur+B0Io=
+		yCufjHs8pee/7gDaNMlC/rySmUA=
 		</data>
 		<key>Resources/Application.storyboardc/u4r-tJ-kAv-view-key-Z0-CXb.nib</key>
 		<data>
-		3tLBE9mmWCJ7VjWEBCB08vsJvh0=
+		xk9wzPsaj1zt/QYZ8r6PGC/jATE=
+		</data>
+		<key>Resources/ArrayInspectorViewController.nib</key>
+		<data>
+		RSx9dliLqwcbrckaj5bb9ilUGXw=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		AWHtokNSlx8322zHA11wxx1KZMA=
+		XIaAIdzEih6zm4rFGVCqM4eSZ48=
+		</data>
+		<key>Resources/Base.lproj/IBAGCDAsyncSocket.strings</key>
+		<data>
+		zTe/zG79uWHNIfGbaPJj/hlaiYM=
+		</data>
+		<key>Resources/Base.lproj/Localizable.strings</key>
+		<data>
+		C4GVOi60cVbzSkccpSgnVvTPFR4=
+		</data>
+		<key>Resources/Base.lproj/Localizable.stringsdict</key>
+		<data>
+		NRwaymVT/aRqQQODDVjF4zo1d3I=
+		</data>
+		<key>Resources/BitFieldInspectorViewController.nib</key>
+		<data>
+		u+5z0Tw2erpHClnl6sv2jq4Btbw=
+		</data>
+		<key>Resources/BoolInspectorViewController.nib</key>
+		<data>
+		Bv/K1h6b5wqImzeWs9yyT0ZaF4s=
+		</data>
+		<key>Resources/CalendarInspectorViewController.nib</key>
+		<data>
+		UrECin+wagwbk87j+CjGm99VTfI=
 		</data>
 		<key>Resources/Canvas-TintReflectionMap.png</key>
 		<data>
 		NUGofJL3M6xzq3PsIZ33cQigtjM=
 		</data>
+		<key>Resources/CanvasThemeEditorWindowController.nib</key>
+		<data>
+		y5I7Iq3aM2M3qVAd0R9fKdAFSmM=
+		</data>
+		<key>Resources/ColorInspectorViewController.nib</key>
+		<data>
+		iOWZ1Bc4pCvbytE72aG5PZR4PsE=
+		</data>
 		<key>Resources/Connection.storyboardc/ConnectionPopoverViewController.nib</key>
 		<data>
-		qSEzezAvGTVEnFNsPUc+mpJWoQM=
+		WLzO5sBKfzFC5/884wenDBXscY0=
 		</data>
-		<key>Resources/Connection.storyboardc/IBARevealConnectionPopoverWindowController.nib</key>
+		<key>Resources/Connection.storyboardc/ConnectionPopoverWindowController.nib</key>
 		<data>
-		GYqL+bF++RGL62kjOLEwKMqSzww=
+		/5Ys+44vdLmsWn4/vISMO5QEus0=
 		</data>
 		<key>Resources/Connection.storyboardc/Info.plist</key>
 		<data>
-		sDOFoc7V+7N3Mwh0Gog2fdbokh8=
+		iPNdijZHmVs0JEcoP55hz6t1G9s=
 		</data>
 		<key>Resources/Connection.storyboardc/aU9-KH-5hx-view-vru-cD-Kdt.nib</key>
 		<data>
-		4sr6g5mweJY6fAa5UP0vtjdio68=
+		SUCwJ0BSPJHjnfMdx34aWyAPCKo=
 		</data>
 		<key>Resources/ConnectionCollectionViewItem.nib</key>
 		<data>
@@ -72,49 +108,57 @@
 		<data>
 		ccpM/9PuPJIwV+SQWJbWFCpq/kQ=
 		</data>
+		<key>Resources/DateInspectorViewController.nib</key>
+		<data>
+		5r+vgHssFkD1I7FTc28Up/hOnt0=
+		</data>
 		<key>Resources/Defaults.plist</key>
 		<data>
 		IwM5o0bq2bdFdkRtwrCyGL0jbuA=
 		</data>
+		<key>Resources/DeveloperWindowController.nib</key>
+		<data>
+		v/Gv/6IqLO9rEKsZVAPQ0TizUGo=
+		</data>
 		<key>Resources/Document.storyboardc/7fw-DS-4sw-view-oRf-H6-F7Z.nib</key>
 		<data>
-		mWNxW5DlgvnBuVugal2yZEda9xI=
+		XWYs5S+llYYu7TWYFSnPvVDwHa0=
+		</data>
+		<key>Resources/Document.storyboardc/ConnectionPopoverWindowController.nib</key>
+		<data>
+		ifPsjZegMViGZS7n/8qUtBvoKtg=
+		</data>
+		<key>Resources/Document.storyboardc/ContentSplitViewController.nib</key>
+		<data>
+		jAVDjKS6hrvP6nwNmGufq+SDVks=
+		</data>
+		<key>Resources/Document.storyboardc/ContentViewController.nib</key>
+		<data>
+		pn+j8mS8V07LhnIzFgwcemGChKI=
 		</data>
 		<key>Resources/Document.storyboardc/DocumentContentViewController.nib</key>
 		<data>
-		TPfcKcLjm2b/KO0jN4GCQ3l5f64=
+		+Rw9iU0F0WVHFv4WfNxHNx4foiA=
+		</data>
+		<key>Resources/Document.storyboardc/DocumentRootSplitViewController.nib</key>
+		<data>
+		2TYrYV17oneVup878ja67RYNLI8=
+		</data>
+		<key>Resources/Document.storyboardc/DocumentWindowController.nib</key>
+		<data>
+		Hbz9+l1xEf2BTWz3Y3oPVoDwsrk=
 		</data>
 		<key>Resources/Document.storyboardc/EnP-EL-K7w-view-AyF-gK-rtD.nib</key>
 		<data>
-		QnMXBtT14SUSj5k744bPx6OOmVQ=
+		5xA+8rhbsTaXNte00nTlN3GMb1o=
 		</data>
 		<key>Resources/Document.storyboardc/FilterFieldViewController.nib</key>
 		<data>
-		i0114UQcKZnbHKMF/Kadz1PPLYA=
+		K6KHpGwSR1O9xX8ACg53Yu7RHW4=
 		</data>
 		<key>Resources/Document.storyboardc/FkQ-Ub-KfO-view-JYu-g7-epz.nib</key>
 		<data>
-		uu3TjgGshTU5xT688hCHD+xJs1U=
-		</data>
-		<key>Resources/Document.storyboardc/IBADocumentRootSplitViewController.nib</key>
-		<data>
-		maHzSOqvVZFfOaUiTJieLqc5cYs=
-		</data>
-		<key>Resources/Document.storyboardc/IBADocumentWindowController.nib</key>
-		<data>
-		Boh/tzU9jIqUz5rSXZ41izWfn6M=
-		</data>
-		<key>Resources/Document.storyboardc/IBARevealConnectionPopoverWindowController.nib</key>
-		<data>
-		vWlZnVUnej93648sVI8ss5r59AE=
-		</data>
-		<key>Resources/Document.storyboardc/IBARevealContentSplitViewController.nib</key>
-		<data>
-		s+IU7UwXZNdxiRoHA0eq0anxVbA=
-		</data>
-		<key>Resources/Document.storyboardc/IBARevealContentViewController.nib</key>
-		<data>
-		qd8uUDNYsFyBQTJqLVd6lwDL1NM=
+		xL4HNCnUqeMxqBr6FkQL0YNuiZ0=
 		</data>
 		<key>Resources/Document.storyboardc/IBARevealWelcomeViewController.nib</key>
 		<data>
@@ -122,11 +166,11 @@
 		</data>
 		<key>Resources/Document.storyboardc/Info.plist</key>
 		<data>
-		WG2620uGArmnsuYGtv1dNFGybJY=
+		hdg+/tCP7gtbGis1kXD8Xdy51P4=
 		</data>
 		<key>Resources/Document.storyboardc/NSViewController-mFY-lH-OOj.nib</key>
 		<data>
-		mwz15aU9A9XTCNnmVkEXUNq3l5s=
+		KEHvwfQHUGTjGE1yboB5R717iGY=
 		</data>
 		<key>Resources/Document.storyboardc/WelcomeContentViewController.nib</key>
 		<data>
@@ -134,135 +178,55 @@
 		</data>
 		<key>Resources/Document.storyboardc/Yof-Sg-YXb-view-QzP-sb-lRg.nib</key>
 		<data>
-		zj/YWvRklGHeVMM6T7IplY3r3ws=
+		q2Mcm5DGC3TyHltX3xtlSsGQsgw=
 		</data>
 		<key>Resources/Document.storyboardc/iqu-BG-lt4-view-arE-BR-4Up.nib</key>
 		<data>
-		157+I1QOaRkE7fjLwfM7yjD0IPc=
+		v6zDLfzZqf6jK6TgjktgyENYFtA=
 		</data>
 		<key>Resources/Document.storyboardc/mFY-lH-OOj-view-fyV-KG-GOe.nib</key>
 		<data>
-		Lpgwm08P+lpI83NGOC7uMdfISHM=
+		Fm/kLN6si+JRWwXdoJ6pPyK50RQ=
 		</data>
 		<key>Resources/Document.storyboardc/oQA-Mc-Vg4-view-r6t-K7-yjK.nib</key>
 		<data>
-		qbTuh6kdDio5oasygFYVTOk2Dig=
+		ScfNxlY2JtJoRImrJX1Rul7dW2U=
 		</data>
-		<key>Resources/IBAArrayInspectorViewController.nib</key>
+		<key>Resources/DualNumberFieldViewController.nib</key>
 		<data>
-		05o4gzTxz64pbpLCrX7344+P2yY=
+		xx+YEveVugx6qk+CK1WPvvCE+Qk=
 		</data>
-		<key>Resources/IBABitFieldInspectorViewController.nib</key>
+		<key>Resources/EnumerationInspectorViewController.nib</key>
 		<data>
-		BxEriSu5MYXodgfjTlCaZxiF8O0=
+		/YMl7WwjCJpermmiGgg1N/7Lvgk=
 		</data>
-		<key>Resources/IBABoolInspectorViewController.nib</key>
+		<key>Resources/FontInspectorViewController.nib</key>
 		<data>
-		Douf0Mec0BZDg9v025c3RX/SjGQ=
-		</data>
-		<key>Resources/IBACalendarInspectorViewController.nib</key>
-		<data>
-		Drt+7Y+OMzz2X5xWceNzh09Si9k=
-		</data>
-		<key>Resources/IBACanvasThemeEditorWindowController.nib</key>
-		<data>
-		HcKw/IdQE31zXN/jebr1BGxKUAI=
-		</data>
-		<key>Resources/IBAColorInspectorViewController.nib</key>
-		<data>
-		1od8QCvg2CQ4pKJXZUWOb1PxS7E=
-		</data>
-		<key>Resources/IBADateInspectorViewController.nib</key>
-		<data>
-		swrPASihC8/iOmeuLSWQSgXeIkY=
-		</data>
-		<key>Resources/IBADeveloperWindowController.nib</key>
-		<data>
-		tbT0m34/mWH977A098PhYXoWLM0=
-		</data>
-		<key>Resources/IBADualNumberFieldViewController.nib</key>
-		<data>
-		b6GhEfKsf6KEh2/mGSGHmvPtzsI=
-		</data>
-		<key>Resources/IBAFontInspectorViewController.nib</key>
-		<data>
-		4tV8/NGpumc9pumT4P93oaGujeY=
-		</data>
-		<key>Resources/IBAInspectorSectionDividerView.nib</key>
-		<data>
-		1EpFOO4nzjUhx6I3x7ZPkIK7xX4=
-		</data>
-		<key>Resources/IBAInspectorSectionHeaderView.nib</key>
-		<data>
-		ALT6Hv62RW2VKbnX5daRgttqy4I=
-		</data>
-		<key>Resources/IBAInspectorStackViewController.nib</key>
-		<data>
-		JGk6lZCkuzWyeLrnUbrHFryrLaI=
-		</data>
-		<key>Resources/IBAInspectorSubSectionHeaderView.nib</key>
-		<data>
-		ggl8IisrS37Vl2eIlCbXsKEU4mo=
-		</data>
-		<key>Resources/IBALayoutConstraintDescriptionInspectorViewController.nib</key>
-		<data>
-		LmXLD7FHtAou7KlcazcbHGGcjR4=
-		</data>
-		<key>Resources/IBALayoutConstraintDetailInspectorViewController.nib</key>
-		<data>
-		HSi/dkkw7RInmGu/EO9E/zlz4/g=
-		</data>
-		<key>Resources/IBALayoutConstraintInspectorViewController.nib</key>
-		<data>
-		J5ITedgyEcnMaGgnQyJ+k75Qesc=
-		</data>
-		<key>Resources/IBALocaleInspectorViewController.nib</key>
-		<data>
-		fVUKh7YPmQQmNAc34XK3lB9Vr8U=
-		</data>
-		<key>Resources/IBANumberInspectorViewController.nib</key>
-		<data>
-		A1JYz3jBgKQoL8VrEJzPq0Saj0E=
-		</data>
-		<key>Resources/IBAObjectIdentifierInspectorViewController.nib</key>
-		<data>
-		pkTd4NjKG/U13SgcT15YuRbGGGM=
-		</data>
-		<key>Resources/IBAQuadNumberFieldViewController.nib</key>
-		<data>
-		dorZuA4/6PSZ2XRMQrK+mckis/M=
-		</data>
-		<key>Resources/IBARevealEnumerationInspectorViewController.nib</key>
-		<data>
-		G+2aNzMotJrep7GMTxW7cldYJak=
-		</data>
-		<key>Resources/IBASampleAppWindowController.nib</key>
-		<data>
-		n4QXMYFAMWQdq5WiLCf1Ufd+MKI=
-		</data>
-		<key>Resources/IBAScreenModeInspectorViewController.nib</key>
-		<data>
-		NsbdPktt9gBfVo1KsHhwoSnFkOw=
-		</data>
-		<key>Resources/IBATextInspectorViewController.nib</key>
-		<data>
-		nS3w/lAZP1O6Yf/z8LCBlI9ruMY=
-		</data>
-		<key>Resources/IBATimeZoneInspectorViewController.nib</key>
-		<data>
-		VQAW8QX8v2K7AhPbXlw1iP2AlJE=
-		</data>
-		<key>Resources/IBATransformationMatrixInspectorViewController.nib</key>
-		<data>
-		wX5naYwp+3qEI3s3D0ro00voGnY=
+		hrZYkQ4mdscpMe4vmEun7PKRJBo=
 		</data>
 		<key>Resources/IBATrialLicenseWelcomeStepView.nib</key>
 		<data>
-		Q7ibJmiU6QDl33pSJzasic+OPSM=
+		TLbgOO/wBTqnw43Sq+H6bMclIXg=
 		</data>
 		<key>Resources/InspectApplication.scpt</key>
 		<data>
 		l/OJwLjQMSliFnqlCydOtUBjlUE=
+		</data>
+		<key>Resources/InspectorSectionDividerView.nib</key>
+		<data>
+		1EpFOO4nzjUhx6I3x7ZPkIK7xX4=
+		</data>
+		<key>Resources/InspectorSectionHeaderView.nib</key>
+		<data>
+		kyXs5FtQ0lK9dRWZ9YAJgZFopzg=
+		</data>
+		<key>Resources/InspectorStackViewController.nib</key>
+		<data>
+		D2d6DZJ7ITCXyfNZSHtqD01eIe4=
+		</data>
+		<key>Resources/InspectorSubSectionHeaderView.nib</key>
+		<data>
+		FymnDDAGdmuXxUVt3Xg5zuPVcyg=
 		</data>
 		<key>Resources/InspectorTemplates/AttributesInspector/AVCaptureVideoPreviewLayer.plist</key>
 		<data>
@@ -566,11 +530,11 @@
 		</data>
 		<key>Resources/InspectorTemplates/LayoutInspector/NSLayoutConstraint.plist</key>
 		<data>
-		Yz5s2f0tO6v86H6iriUH4yBXmS0=
+		vTEqcheytbUrypT7duBXLU2r82s=
 		</data>
 		<key>Resources/InspectorTemplates/LayoutInspector/UILayoutGuide.plist</key>
 		<data>
-		YhortPyrK4RbBF7t+NdeQJahIfY=
+		1OzXRAAVJrmbSD3+KJbuBJnQmfA=
 		</data>
 		<key>Resources/InspectorTemplates/LayoutInspector/UIScreen.plist</key>
 		<data>
@@ -578,11 +542,23 @@
 		</data>
 		<key>Resources/InspectorTemplates/LayoutInspector/UIView.plist</key>
 		<data>
-		zcMvlyKJ2CYW1sm7UeuIqh95jWU=
+		vYWczKan3VKYETyXKxDODpVaJs4=
 		</data>
 		<key>Resources/LICENSE.html</key>
 		<data>
-		JDa75EwbGhiJmrLsKtF7V2ZFZgs=
+		/wUp6MSVaZUAMlU6H0Cyoz5bCl4=
+		</data>
+		<key>Resources/LayoutConstraintDescriptionInspectorViewController.nib</key>
+		<data>
+		ufEbNU+/FVTTK4uUUgxUG2SEOus=
+		</data>
+		<key>Resources/LayoutConstraintDetailInspectorViewController.nib</key>
+		<data>
+		YPCKk8FLPy1vxiUu4aQVI7Db5Xo=
+		</data>
+		<key>Resources/LayoutConstraintInspectorViewController.nib</key>
+		<data>
+		X8dzUEmt2Ae9EK9kmxNWnAtZrQc=
 		</data>
 		<key>Resources/LayoutIssuesInspectorItemView.nib</key>
 		<data>
@@ -594,47 +570,55 @@
 		</data>
 		<key>Resources/LicenseWindowController.nib</key>
 		<data>
-		+/hzElJAlg+RqvMUOfUONIelCfM=
+		d2DhXA17rc+VTLjaYB1VHcgNQiU=
 		</data>
-		<key>Resources/Localizable.strings</key>
+		<key>Resources/LocaleInspectorViewController.nib</key>
 		<data>
-		ETl+fo+vtWoUeAYjr4RySJ30FnY=
+		/DPYY2W0VdjjNUsiwyMFfPKQ7EA=
 		</data>
-		<key>Resources/Localizable.stringsdict</key>
+		<key>Resources/NumberInspectorViewController.nib</key>
 		<data>
-		Yq//1XZ9U+KTkThiXYDpQYb8g4A=
+		BB/BS+80KddzLmNlqno7+nMEsVo=
+		</data>
+		<key>Resources/ObjectIdentifierInspectorViewController.nib</key>
+		<data>
+		tEl5mxjvo2tnhkX2eTDYntFDcr0=
 		</data>
 		<key>Resources/Preferences.storyboardc/FbK-ZH-luf-view-tAL-fR-O7E.nib</key>
 		<data>
-		6Dj/yLE906aUVcSmS1F/iNnQQm8=
+		o47qaMzv9tJU4xU7yyFOBx0ozus=
 		</data>
 		<key>Resources/Preferences.storyboardc/Info.plist</key>
 		<data>
-		/ExuqdtT3GyufPpYlSEJVVyiHtg=
+		4KrxMdabsZA26QNe14BuN/y0QBg=
 		</data>
 		<key>Resources/Preferences.storyboardc/LnZ-ps-XF0-view-vQO-ce-jYj.nib</key>
 		<data>
-		ROcS/AJalTZph0ZFrSHWUbpDlSo=
+		o60y7ARUn5abdyI9dXikQWRUt3g=
 		</data>
 		<key>Resources/Preferences.storyboardc/NSViewController-FbK-ZH-luf.nib</key>
 		<data>
-		Iaf9Wedv1w3lv19ESjb8A1m5yrE=
+		UrO2HX/xe1KKQC9GHdrcqNWPodk=
 		</data>
 		<key>Resources/Preferences.storyboardc/NSWindowController-6cU-qq-JHg.nib</key>
 		<data>
-		a61aTq2Ev/ryydJ8jAEBAEWftG4=
+		nBF1FiBRLRsZl0/I2WFmM6gSf88=
 		</data>
 		<key>Resources/Preferences.storyboardc/r0R-Ee-yF2-view-sKv-4K-9fM.nib</key>
 		<data>
-		LTB6lkWXocT90iYIhoWhHK0bdso=
+		U+0xxbZ9oIdJRUZVJYVmPQ9Ipwg=
+		</data>
+		<key>Resources/QuadNumberFieldViewController.nib</key>
+		<data>
+		ToUOkGar4OR3WJIrwPueuqxBTVQ=
 		</data>
 		<key>Resources/Reveal Acknowledgements.html</key>
 		<data>
-		Hwlr/r3gKEZeK3Zg2WpEndU5dWU=
+		SOBAZHlqsYdZhb59pjIBD8NkOmQ=
 		</data>
 		<key>Resources/Reveal Keyboard Shortcuts.html</key>
 		<data>
-		lKFT70bdGOL1SV3hYSRB6AgIjbg=
+		B9+VRfj3+bbv+k1tEpCIZma9B1Y=
 		</data>
 		<key>Resources/Reveal.icns</key>
 		<data>
@@ -642,7 +626,7 @@
 		</data>
 		<key>Resources/Reveal.sdef</key>
 		<data>
-		1HdDiQpyM1OLM+iP/rBZCs/KtOY=
+		Zy75Uf+lYd5+kI4QCf8cT7a/bQY=
 		</data>
 		<key>Resources/RevealBeta.icns</key>
 		<data>
@@ -655,6 +639,10 @@
 		<key>Resources/RevealLicense.icns</key>
 		<data>
 		rVLjfdtSYMnKnB9HYFuB8x5vhqI=
+		</data>
+		<key>Resources/SampleAppWindowController.nib</key>
+		<data>
+		0h6oieZ4m9aKAnL19G2yweEELyk=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/AppIcon29x29@2x.png</key>
 		<data>
@@ -710,7 +698,7 @@
 		</data>
 		<key>Resources/Samples/Soundstagram.app/Assets.car</key>
 		<data>
-		Y42bQs1e6s93xydCq/wLZIbNZXU=
+		wgoTQcfqiignBef8BhC1itXaQkU=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/FakePeople.plist</key>
 		<data>
@@ -726,23 +714,23 @@
 		</data>
 		<key>Resources/Samples/Soundstagram.app/IBAAuthorProfileViewController.nib</key>
 		<data>
-		yD9IOxpYuVBxyI8vHad+8hAS6rk=
+		PXep7S9jBi+V9TOK3BT5yZaPs2A=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/IBAAuthorProfileViewController~ipad.nib</key>
 		<data>
-		6tXt3Z7hTfKFWlBSTmt8OqrE78I=
+		kt3z8LHMHg1t78+pgqnd9yi+iXM=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/IBARecordTableViewCell.nib</key>
 		<data>
-		IiL5aBgXKGK56ximaZQE/QafQ+8=
+		YirDwttiHXYxZr9sm3p1wXMqARg=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/IBARecordsListViewController.nib</key>
 		<data>
-		zJfpe517aayOtP0r7nHc1NBDOnQ=
+		RX9vufSE0bIgdk9nHNWD30XOOug=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/Info.plist</key>
 		<data>
-		2rsj9EjJLnHKzv1gUpLt2p8QIKA=
+		s+qMCH9lbSTNBzKGeJHybi6dek8=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/LaunchImage-1100-Portrait-2436h@3x.png</key>
 		<data>
@@ -786,11 +774,11 @@
 		</data>
 		<key>Resources/Samples/Soundstagram.app/Soundstagram</key>
 		<data>
-		JqZSRgaIW42omg0nJB0i8I765tQ=
+		wMGUGEGSFMH9VTe+/KhnX827ELM=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/_CodeSignature/CodeResources</key>
 		<data>
-		ETFboX2jIHl/rZ2PPNr4kYzd4mI=
+		r4mxU2SZlRNfe3vJ+9CGRBwHbR4=
 		</data>
 		<key>Resources/Samples/Soundstagram.app/cafe.m4a</key>
 		<data>
@@ -1173,13 +1161,29 @@
 		<data>
 		UjPqsQhAnQcCWJ5FIaD9e1r7+1U=
 		</data>
+		<key>Resources/ScreenModeInspectorViewController.nib</key>
+		<data>
+		rgiTNvTZK5Biket+PDl2L6Of+20=
+		</data>
 		<key>Resources/Snapshot Document Icon.icns</key>
 		<data>
-		05RlClZJ88EkEQtNMZHonnlmYxs=
+		Z79+BpaizCJl8a5eNRdCOkymVAQ=
+		</data>
+		<key>Resources/TextInspectorViewController.nib</key>
+		<data>
+		ywTnHNABvx+iT8IlRRCu2wQKwRs=
+		</data>
+		<key>Resources/TimeZoneInspectorViewController.nib</key>
+		<data>
+		gxoyDwN0/LrHkGPj0AcOxUL5x2U=
+		</data>
+		<key>Resources/TransformationMatrixInspectorViewController.nib</key>
+		<data>
+		AJ2V2TxENFzBFXAkxqj1/cuGP7Y=
 		</data>
 		<key>Resources/UUIDInspectorViewController.nib</key>
 		<data>
-		3HU02VcX1OYR93XPdIhYj/Iy4ss=
+		p3RYl73lTOI5+6HS1hOqcJqSW8s=
 		</data>
 		<key>Resources/ViewHierarchyFilterResultViewController.nib</key>
 		<data>
@@ -1187,23 +1191,23 @@
 		</data>
 		<key>Resources/Welcome.storyboardc/ConnectionListViewController.nib</key>
 		<data>
-		rSlyyxx6cOt1hJd+W+02JBnAU/U=
+		Ulbc7WZoeULUA4Ge41P7OsjuAkE=
 		</data>
 		<key>Resources/Welcome.storyboardc/Fei-Mq-SkV-view-6q4-ed-LI6.nib</key>
 		<data>
-		cM1MaLYO8XpM3PwqoAOz3kvEROo=
+		LyofeC/Tvf02tfN0KPHL6BEui2g=
 		</data>
 		<key>Resources/Welcome.storyboardc/Info.plist</key>
 		<data>
-		PNI9qkelCnSylj+a6W4Q8MoUzuo=
+		F6fPC7x3IpFjL6iZP4OZw2ufIlo=
 		</data>
 		<key>Resources/Welcome.storyboardc/Vgp-Dw-liE-view-JsD-VL-dez.nib</key>
 		<data>
-		CJsA7K0jbg9c8v7qxss+YPjV5Es=
+		c99gqnWxmEHDDJPsrbglXYHrhtE=
 		</data>
 		<key>Resources/Welcome.storyboardc/WelcomeContentViewController.nib</key>
 		<data>
-		0JBY9eRocIYJAEXe0uczmUIk3nw=
+		6e/0OgdmFfNYU/UY/UAqENqDmtk=
 		</data>
 		<key>Resources/cheer.mp3</key>
 		<data>
@@ -1225,11 +1229,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/DataCompression.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1Opo/b19MQJP0sNgw8kTQxSdvn8=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier DataCompression and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
+		</dict>
 		<key>Frameworks/DevMateKit.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			e5ouRQh1zF43FcXIWkNGBs+L9ys=
+			nOnnYGGNnYuC8gYXFQHb0GwyMlI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.devmate.DevMateKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1238,25 +1251,16 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			YykPEDdCDEMrGfof+xnkHDo6nXw=
+			wPQ0BSUY9w71s0kwo4jqxADtAMc=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.ittybittyapps.Reveal2.RevealCanvas" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
-		</dict>
-		<key>Frameworks/RevealTweak.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			OmF/y7am/dvtjskJKJj2H7PxC5c=
-			</data>
-			<key>requirement</key>
-			<string>identifier "com.xwjack.RevealTweak" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: xuwenjiejack@gmail.com (FD29X4RY4A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/RxAtomic.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			iw6Z0CYQYU4I712AC6Bcc0zu7QM=
+			b9xBdAu+Y2XEs0ECeQGkbAhhdFM=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.rx.RxAtomic" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
@@ -1265,16 +1269,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			21zS4tjYHW1qZvKzmNSkNjGiMW0=
+			ExlBxd9q/ggeqf0J9Gl+4wY8q44=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.rx.RxCocoa" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
+		</dict>
+		<key>Frameworks/RxOptional.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dJlwyTJ0Up7Oo/Sq8XmxJ+dSd/E=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "me.muukii.RxOptional" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
 		</dict>
 		<key>Frameworks/RxSwift.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			yLnZiJOczPegEcUj2+7rJJ9LzvI=
+			vByICCFQEc3yn2IlZFD3n6WHbzE=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.rx.RxSwift" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>
@@ -1283,7 +1296,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			63hhxXIjMTMGs9EJnI2LFMbbsmI=
+			vyihF8+zqAdJNRNnn+PjPa6BUgo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1292,7 +1305,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			R+NyTzc7mJ3+4/+a/0pDd1aFG9w=
+			AiIt4cSeUJ6JDM2uH26ZLxN3Ny4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1301,7 +1314,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NaWmV1oU8EMRJMvNHDoCoMeHFlg=
+			jtus8638OSY+pOyaQhsDriIWZt0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreData" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1310,7 +1323,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			T06uRxHffzpwcOLUwcPJbvE4l4M=
+			KY8strNWiyX6TgLop3wLxqXmGG8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreFoundation" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1319,7 +1332,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			VNV0zj65kdmAY2rOMjorW08GP1A=
+			FswLbvOQ0MgxLnOxitOinzq2uLk=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1328,7 +1341,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			VvJHxUC8yENPsbJky2bdTPMUQ/k=
+			+6XtLbe+TIS9nIRGPh90nAj3Kl4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1337,7 +1350,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+bTVRkSaUXGmm9e2KkgkWvBw+XE=
+			7Z1bZ+kQ78ThxclCqW/jkWMfvMs=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreLocation" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1346,7 +1359,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			cvdZVQbFhex5jAD95dPrImHqPVo=
+			ONLhj2Hv+SYy91E46Zg2pGZi7yo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1355,7 +1368,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Tr4YZFSpYRjuhicP5PhW7Ag8S4k=
+			cn3XuGneWA5o7sOggpLrcAxdI5g=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1364,7 +1377,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kXBLTK4NDZhycZWCiH2Kw9sKrzA=
+			Z/Hy3P5opJoxhMQvDFEEN7nJ/eQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1373,7 +1386,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			avsZK7dE7ydGfx0yO2x+LOJKRCU=
+			3BxnHfe2CwZePsxcGngecs3gKjc=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftGLKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1382,7 +1395,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			9lNDg+AJayHbdFdmOYnWK9Kiygw=
+			SzwP+0wiXWLU7TfCmZWJeOg88VE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1391,7 +1404,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RCPKy5NdVJDYiFhJ30bRII03trE=
+			AwFYiWNF1izhfdCSHcA7Vx36b1I=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftMapKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1400,7 +1413,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			/oT8DE/R6S9HGAZUotdAJ1LdMuA=
+			wSSxna1jM/SjHp7tA65y2BFLVLY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftMetal" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1409,7 +1422,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			QJVHkyJEdQ18kob3yO66zzD2ie0=
+			AOtVIlQAsPIUqLsd+nnEHqOjpjo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftModelIO" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1418,7 +1431,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ck1ZAYnAmkIVbf09HueKAz1QaK8=
+			brIdoqNYZmPQ9I6UiTXWP0bhflc=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1427,7 +1440,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			z+Yo60ZXyfJj9YdD5Va5ew6KbJM=
+			GTYCf1iE3qZj6CD3GzNkenSC/ok=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftQuartzCore" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1436,7 +1449,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			jF0G1bp8AOgEp6R3ibk9Ze4RgK4=
+			ixNBLHvBp0bCA5rVctFQgCETjbM=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftSceneKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1445,7 +1458,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zt5ThiLEiucxJh1Cg5t13ZRJ9KA=
+			QuqWUphiATf3veqYJhAHd1afb8g=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftXPC" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1454,7 +1467,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			KdxPBpMOWJPcGmLec86v8xlXSVw=
+			O7L0TlYLQc9SSuoVSKrAe0OraSE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1463,7 +1476,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4oQSd6L+7ApsL5U1DGeS4g0y02E=
+			3kdfDSBbEtlM+T6PJeMtFYze4EQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftsimd" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC</string>
@@ -1472,14 +1485,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JP7+8Rf5TGClOIq+kKopdFPwYeWpZIFoHSEenFXOTcQ=
+			iu7/kulXty6+g3HoukB1HMwYI10xiRyUuN2oxGg5HnI=
 			</data>
 		</dict>
 		<key>Library/QuickLook/RevealQuickLookGenerator.qlgenerator/Contents/MacOS/RevealQuickLookGenerator</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GqH9HVa47A33PeubIAlTf/JEZpFltEhMvM1l08hWRj0=
+			QdRrZGY+EuNhCKuxdo3J5r3vnA/TuQXoLtqVaVIxe6w=
 			</data>
 		</dict>
 		<key>Library/QuickLook/RevealQuickLookGenerator.qlgenerator/Contents/_CodeSignature/CodeResources</key>
@@ -1488,15 +1501,6 @@
 			<data>
 			ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 			</data>
-		</dict>
-		<key>MacOS/libsubstitute.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			5bJcE5rietqjbXxGdnWBTvMFnHY=
-			</data>
-			<key>requirement</key>
-			<string>identifier libsubstitute and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: xuwenjiejack@gmail.com (FD29X4RY4A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/ActivationWindowController.nib</key>
 		<dict>
@@ -1509,35 +1513,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7VygeDuyhNbQd/Jj26T5DN1t5pSl5YNN1k6xaf1Lv0=
+			SsKFHKDzsIIfnTX8A1X9T9a5o3qzg8yWFsx01hTESBc=
 			</data>
 		</dict>
 		<key>Resources/AnnualSupportFailureStepController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IaRBJCgY8BlhcDhA/3zk15e0Xi9qn5wOE0je4o0SH7I=
+			KZWS2Fvv6J5rYbduSNlxeUakDoFYn4OjP1IrJth2/fk=
 			</data>
 		</dict>
 		<key>Resources/AnnualSupportStatusWelcomeStepController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FeS+gNX6Yy7R58yl36o9oFJLcgucVsbKUNEURaX15Yg=
+			Jp/zVoOH4Oy3rsgTmq5LEaYrwDijZjC3UhEaDSjEgXU=
 			</data>
 		</dict>
 		<key>Resources/Application.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4C7ukLAWL1Hrel/3o68rVORL/Pteoav4Yt6j4dhLK2g=
+			2WeFSRevB4XRjj7RWWUt6gJ3uAaWKv2G1g2uiScym64=
 			</data>
 		</dict>
 		<key>Resources/Application.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOjti2MUuZzY8ZmS1MoAbaNUrlmonrdD8qPHOlV17ZY=
+			uIQ5tCbtyV+xXNuWGIiNk9DHHz1decvkoAO36ngr7e8=
 			</data>
 		</dict>
 		<key>Resources/Application.storyboardc/NSViewController-FZa-44-WHi.nib</key>
@@ -1551,21 +1555,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ox3lwf8ZoCD5a/jbspBbvI6yHL+cpLbjVqpCUaZoWHc=
+			iZrvF3fndHyVwRIhVaAtVU0YubdPO8h5TI2INZWKg0o=
 			</data>
 		</dict>
 		<key>Resources/Application.storyboardc/u4r-tJ-kAv-view-key-Z0-CXb.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qiCry1ofl7otmOXMOvTWhZipLcmMol8f66VQgZpQta4=
+			fGocD3Swh8rSKrK3k9OHmKrrGieybswtn+0LFy5xIRE=
+			</data>
+		</dict>
+		<key>Resources/ArrayInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DF+1NbUsJ0arRj0Z4N6EDfgc5Zr6Ocg703wZcKp7HBY=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZRvZrL0MEhXKbKDQYkI70887o3d1fF6xrRUwO8evpzY=
+			GahJeC1hDzUWysOsZwD83LOj/c5t418LevlcTMpuTlQ=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/IBAGCDAsyncSocket.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rrmpPhIAsRohmMXfJbL2vv8xbIshv5LRYsn9I54YSXg=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			of65ph3pp8vtIt1S+qBD9jGWuwIgmvmlJUHRZJ0f4NE=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DCGnCnNUuFPk96DyEmw3HCP31VlGNSIG0L+Hm1lLWZ8=
+			</data>
+		</dict>
+		<key>Resources/BitFieldInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DZFO44walnPkXsJK4mDFtSLf5BDOHQKoVO0Yp97DVBg=
+			</data>
+		</dict>
+		<key>Resources/BoolInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SfsBrMmVqnOXfg8HgGAMf8R4GQ6x7ftoseV++ejQymM=
+			</data>
+		</dict>
+		<key>Resources/CalendarInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TEfaYCTQO3yXPX0JbuwgOGBMpwjDs8bZxOgYzygue+I=
 			</data>
 		</dict>
 		<key>Resources/Canvas-TintReflectionMap.png</key>
@@ -1575,32 +1628,46 @@
 			KZGhwuWvVRihufzW8OjNWONDjh3Yz/dM63XJiNs3JE0=
 			</data>
 		</dict>
+		<key>Resources/CanvasThemeEditorWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7szI5rDDxN3Qaa+TQb22picoH9zKnSMmzQNFR07hvmg=
+			</data>
+		</dict>
+		<key>Resources/ColorInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xp4p+ARPpXE7awecBethLfKlOlUZWOrYmoBzbjTMR+k=
+			</data>
+		</dict>
 		<key>Resources/Connection.storyboardc/ConnectionPopoverViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IGL2thUgK/keAWiWKbG17luLrYneWWBOWYXmmY6VOeA=
+			jVg9gMG++RYli8gMnXxhCs3zH4/aY5YkA/SUfdPoS3g=
 			</data>
 		</dict>
-		<key>Resources/Connection.storyboardc/IBARevealConnectionPopoverWindowController.nib</key>
+		<key>Resources/Connection.storyboardc/ConnectionPopoverWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MU745TH2KZKSkqRHSzr1RrmNUrcFO1xR+8a5tPiLNvw=
+			UwnijcZfSmr+yGP/1wqFyXq0xDdaAmagN9YFPBUTJKo=
 			</data>
 		</dict>
 		<key>Resources/Connection.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pczgLB4X90VX08yXCV4J4IiQnIStCGqowrbtQCs3pIs=
+			kFF+UZRlRf0BPI9IuqYrfJjDGBMn7Z23gIikfeJ3vKU=
 			</data>
 		</dict>
 		<key>Resources/Connection.storyboardc/aU9-KH-5hx-view-vru-cD-Kdt.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t8oZgh8XsmsKwAO3cVA09qh4TknRfaFwMUHZflpbs4M=
+			znoJJfyEVeIyMKzP76HVQiGne2X07zd3u3z15QrHXYA=
 			</data>
 		</dict>
 		<key>Resources/ConnectionCollectionViewItem.nib</key>
@@ -1617,6 +1684,13 @@
 			GigbsexU5G6W0XmkLUEWJ9L4fDqM6s5xfb7IBIn0Bvk=
 			</data>
 		</dict>
+		<key>Resources/DateInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j7Pjb2EymljKYnOt1k7bdeP+HtWMixgAoAp0b5V1MNQ=
+			</data>
+		</dict>
 		<key>Resources/Defaults.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1624,74 +1698,81 @@
 			bouH4y4ApuTQKpD3mwKjprRRmLqLgaSsci1NyA+ic28=
 			</data>
 		</dict>
+		<key>Resources/DeveloperWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SW7lxS1cOe1OKhMDZk0FGnAUYTOaqQUKbv0d3I9fSPM=
+			</data>
+		</dict>
 		<key>Resources/Document.storyboardc/7fw-DS-4sw-view-oRf-H6-F7Z.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7aGjJxYg8s6/EEA3R9A/20FmeqnyO/rWcCty80ZYNis=
+			rTYOn8X/7hW7uyWfG7bU4iT/po4Z9V0KwpmIpACnxo8=
+			</data>
+		</dict>
+		<key>Resources/Document.storyboardc/ConnectionPopoverWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9bcxGkdFsrmN+t2Mg9JJ82idgtYwmDQ9FlK+3+Gq4Jc=
+			</data>
+		</dict>
+		<key>Resources/Document.storyboardc/ContentSplitViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lGPej+aSQZqtDDyEAL5FU0+JIUJdgiqMBKs43j2Yqs4=
+			</data>
+		</dict>
+		<key>Resources/Document.storyboardc/ContentViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l6Rfuj7q0eBBkyohbKHb9IYpuM8LPtkkI4sHOLXSEJI=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/DocumentContentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eRqSbP8VQeE/yEAGXrkE/+ccIMUbXDx9Z9/Vkz0Mvpc=
+			IB2Y6a/CUK9eUkNq/4uni+QRVauDlX7/07qy1gNRC+s=
+			</data>
+		</dict>
+		<key>Resources/Document.storyboardc/DocumentRootSplitViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cKJBbmSzfJin+tbuqszStXsTW+Tn6nTW1iF7NqNslIU=
+			</data>
+		</dict>
+		<key>Resources/Document.storyboardc/DocumentWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x+72as2jL8uKE3uBwIAczj7fNHiOYu4e3kNlUggsi7E=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/EnP-EL-K7w-view-AyF-gK-rtD.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQ/XJz8HwY+lkm4nJ87T3TAxTE5xR8U2mimQhOAEMxo=
+			qHF9nrJ53kCsgIfep9eLWOrCUIqtIUW+6N7EucgL/6g=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/FilterFieldViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HK4m2gey+WLERmDuWI53RrZAjHWtrBR9Xn/4AKuogOE=
+			tnNJbW6oq7prcn9yvvGlaBop9ndXHRRrI1Oe9pGaRj8=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/FkQ-Ub-KfO-view-JYu-g7-epz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJ7HEI5P0Og76PtDDHamXlZaCNYGeJLmgqtA0edz6+w=
-			</data>
-		</dict>
-		<key>Resources/Document.storyboardc/IBADocumentRootSplitViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hKyprEy7B0rRMad265SrJHtRrfwY9vQl7BX7UmTpfeY=
-			</data>
-		</dict>
-		<key>Resources/Document.storyboardc/IBADocumentWindowController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7O16AMC8FysGI+6hSpb/S3ZumLoCqZTvunI023amO/U=
-			</data>
-		</dict>
-		<key>Resources/Document.storyboardc/IBARevealConnectionPopoverWindowController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Kn2Y2qTBRvKEcIV5AS2nCIWOGWqeXJvieUiNC9z/bqw=
-			</data>
-		</dict>
-		<key>Resources/Document.storyboardc/IBARevealContentSplitViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R+t+uojvNIcYAISrOuvzR2KDBpycik2276IhJp1AS8A=
-			</data>
-		</dict>
-		<key>Resources/Document.storyboardc/IBARevealContentViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9wlvVEYKFYWbeMhxgRroMQbHCrs2B8j7bJx0KuxGums=
+			91ZsaUc/HaPvrfs0wux6/v8G2GjC2GPomw8xGonfRhk=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/IBARevealWelcomeViewController.nib</key>
@@ -1705,14 +1786,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iyCk9afIDcPXiNnwdINaP+3/gak0tpp3rklxNWeztl0=
+			/Z1+AlkjvtzAJ4BlxHq7ZH60MbllBxOiSm6YHUqI0Eo=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/NSViewController-mFY-lH-OOj.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1QS//pjE5R4vWuWXXcV4jZeLYnxzWR9Z9+VtYE5jPTs=
+			XiIaTXbrabucD5esVuqR40xRvHdPayA/8V+a4JhP1Mk=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/WelcomeContentViewController.nib</key>
@@ -1726,224 +1807,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuhHiyx6OxqAO07ZiWWQaWB0B87EtYvCySlW8VWUjVE=
+			AeT5rQ4OzDxDHq6feYZ4IrDaRPwtP1uIO6TLg2kXuIU=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/iqu-BG-lt4-view-arE-BR-4Up.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lUb6ZIguk22gcG5ohXOoalaMX7RSodACswctwXwNt3A=
+			mp3APC5UDS3DNwAdDoHroxmvGUgDFej23VbJs1aB6F8=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/mFY-lH-OOj-view-fyV-KG-GOe.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tvBQliNg7SPwp2/ET6kL1nGbOtmZo7YYKZkoHOLdocA=
+			6eYCwTFNxGBhWXvw1/vr3CnhzpScbfQHE+ERMgu2ysE=
 			</data>
 		</dict>
 		<key>Resources/Document.storyboardc/oQA-Mc-Vg4-view-r6t-K7-yjK.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BQTzqZ2wmBkJIjW5Ic6ejefMKl5zuAg+tq9V5OdAwug=
+			w0QAHd2v5pbVo9aWhJEwKarwF67mCqMyVAKjuKvS3Fc=
 			</data>
 		</dict>
-		<key>Resources/IBAArrayInspectorViewController.nib</key>
+		<key>Resources/DualNumberFieldViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ye/CKMjQKL9O6dY/JUb7ijdma7vdiNZ4wSJK3TQjpXw=
+			revg2ioyvRjRMnP4PteGn3BbOq8T98epzLBuSQOPhYI=
 			</data>
 		</dict>
-		<key>Resources/IBABitFieldInspectorViewController.nib</key>
+		<key>Resources/EnumerationInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AeGdh33XF31qwgFRWOfxj3rVmdO1EWOXoMZCvOC5IZA=
+			PYqpf15YtPZAD8XIow69zgygjWXwHkZ1EE2qc6zmdeA=
 			</data>
 		</dict>
-		<key>Resources/IBABoolInspectorViewController.nib</key>
+		<key>Resources/FontInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J30oJu2Rn0ISd2RhIpO1sQTmamNq4JENMVKazDfHg6Y=
-			</data>
-		</dict>
-		<key>Resources/IBACalendarInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cYywgoaS1sjb0bHDu6pru/zAZpAYSv+zd/JRJHApNNA=
-			</data>
-		</dict>
-		<key>Resources/IBACanvasThemeEditorWindowController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			k8vbmKt41TWgA7vZef4evyrT9RWEYx+jezxGlh/6MO0=
-			</data>
-		</dict>
-		<key>Resources/IBAColorInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ajO0hnDexwhhxcUKOL29kXwvQWaUNuiNz4pLXEc2EDE=
-			</data>
-		</dict>
-		<key>Resources/IBADateInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZXQLKr3kGFDTY7gUaNtwhDTz65DiDxjbdawAKsoF2Is=
-			</data>
-		</dict>
-		<key>Resources/IBADeveloperWindowController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZNWb4u0kWSDnohvNp7BG/ZwJse8ZVhwQZPDwH+z6zHA=
-			</data>
-		</dict>
-		<key>Resources/IBADualNumberFieldViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2KKDPwyq/uo1XIrGeZIl/sl3v7wLHpUgsfIp4lgr8JM=
-			</data>
-		</dict>
-		<key>Resources/IBAFontInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DVFaiLn6hkbbp/+s4ER2Zi+g2gCkmzpF7Gl+1XGPX5w=
-			</data>
-		</dict>
-		<key>Resources/IBAInspectorSectionDividerView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IdtdSKFx+Dh3FQOJpwzX7BgCk8LxywvSJvjOm4w/e54=
-			</data>
-		</dict>
-		<key>Resources/IBAInspectorSectionHeaderView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			99aiyX/W8Zkoo8aZRLqyD5Effxlcq3nrC8Bnh2t7GJE=
-			</data>
-		</dict>
-		<key>Resources/IBAInspectorStackViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pz/zT/cr9Q8lfqhMGiqZcf3vXxc29t8PZXZspcYn5o4=
-			</data>
-		</dict>
-		<key>Resources/IBAInspectorSubSectionHeaderView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wa8ddkOqbs63p92b7W3exc/GELODJwPfiyG7+9I1ZYQ=
-			</data>
-		</dict>
-		<key>Resources/IBALayoutConstraintDescriptionInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7JMDw4G8yc6ncVIgEAnioRbcDULYM+fBNKyPxtukaN8=
-			</data>
-		</dict>
-		<key>Resources/IBALayoutConstraintDetailInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bRlxJOfPAWwBC9D7ExpX8+S4lrlWou0y8/y3OrqQKkI=
-			</data>
-		</dict>
-		<key>Resources/IBALayoutConstraintInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NOoSt6QbqGist52XoEYCPoFlHfRa+RykRQhtkFyFK8U=
-			</data>
-		</dict>
-		<key>Resources/IBALocaleInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+uimA/uGSyeHY5L+KlSxWHthC8p2QIIZ147i2vxKBYo=
-			</data>
-		</dict>
-		<key>Resources/IBANumberInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1o3SqIjADDRDEM2rWHNGvQThk1OEBjnxDAG8YKmkGx4=
-			</data>
-		</dict>
-		<key>Resources/IBAObjectIdentifierInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vO0V4xVoHxXaW/7+/TVskBoj1PSi/x0n+TKmUMDgCSk=
-			</data>
-		</dict>
-		<key>Resources/IBAQuadNumberFieldViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MMi/c9w8lu5XiPTqaI0nizmFvZs/w9l9RYY0384Wiic=
-			</data>
-		</dict>
-		<key>Resources/IBARevealEnumerationInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			69Hi3RikGltladraR4sle5lEkJgjWmZpiJpOUWxrQs4=
-			</data>
-		</dict>
-		<key>Resources/IBASampleAppWindowController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ulE5DyCublOYARqmh/2X0pmB87UFl3xNJTDHuWPDXLQ=
-			</data>
-		</dict>
-		<key>Resources/IBAScreenModeInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WEuT2B0qA/brHRYhV1VY4k7yZ0yduPQ8TlsKRjhJTk8=
-			</data>
-		</dict>
-		<key>Resources/IBATextInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LW94e91CqFUifUm5R2P1qxgGVgTn7ZQlzRhEcISvtfE=
-			</data>
-		</dict>
-		<key>Resources/IBATimeZoneInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BVqF/Jac3TNHCbCD3wDYyeCwB5IWKOLrNjVlBXg1PVY=
-			</data>
-		</dict>
-		<key>Resources/IBATransformationMatrixInspectorViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0yiDPbJ8+gemd7zRWir/mdzhLpECTl6ndK2NRGOUcmM=
+			vWoJsNBfBU2jQQ4AgcPadAS3JiD64Hp7RcD64jlrTlU=
 			</data>
 		</dict>
 		<key>Resources/IBATrialLicenseWelcomeStepView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c2RTtdF6zl6blmQtuhsKJH4KGPdyVAbKw533hKf0jwA=
+			ALR4BJ/AZXv6+WhEKL7dvnnehgO7y1kLlV5fXaXDKjs=
 			</data>
 		</dict>
 		<key>Resources/InspectApplication.scpt</key>
@@ -1951,6 +1864,34 @@
 			<key>hash2</key>
 			<data>
 			4UZh/5aYzMMcQZd/8luGC9je3D1IN07h8VbyVDgrJJ4=
+			</data>
+		</dict>
+		<key>Resources/InspectorSectionDividerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IdtdSKFx+Dh3FQOJpwzX7BgCk8LxywvSJvjOm4w/e54=
+			</data>
+		</dict>
+		<key>Resources/InspectorSectionHeaderView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LQz9oB7BNosXVjvjdbeUCym/r55giUWOtEoVXkneIWs=
+			</data>
+		</dict>
+		<key>Resources/InspectorStackViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VxPiU2RnY96yuZS3FtwSPsEcEc4rfge7yclvqFoKC+0=
+			</data>
+		</dict>
+		<key>Resources/InspectorSubSectionHeaderView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			acw4KF/QTMIQxSPN7iavDslC+SergHmwmdYncTZFfKw=
 			</data>
 		</dict>
 		<key>Resources/InspectorTemplates/AttributesInspector/AVCaptureVideoPreviewLayer.plist</key>
@@ -2482,14 +2423,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RPQWAcnaPCUTMD3rXMq/U776olnku+t6m2wykJw6t4w=
+			vWENO+VKXtAxiyxdAmnXCedg3RRPYUoI0ncl/ln0ohc=
 			</data>
 		</dict>
 		<key>Resources/InspectorTemplates/LayoutInspector/UILayoutGuide.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAhGw2o+i8otpyjAPDmASFkmW8HgSiLEHxLV9uZwZJw=
+			yWGAZU0UJD1anFYofCWJGhBWMT0X/qgs8aZdtH5OvrI=
 			</data>
 		</dict>
 		<key>Resources/InspectorTemplates/LayoutInspector/UIScreen.plist</key>
@@ -2503,14 +2444,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3JjpS04kzCgg+E8NRNkL+CJfdAu/zJOtznu/bMdU0pY=
+			R29wwYWOcEwyslCRKdmc+95ZlpPNS74EQeOwKcaOW6k=
 			</data>
 		</dict>
 		<key>Resources/LICENSE.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8mUJHea0vhH5wPYrdJpyRXyhaR5IKIoQygst9yF1YUI=
+			HU0MDqNklgky4zJVD77828ODgDkiGLh9UGbwfCoL+t8=
+			</data>
+		</dict>
+		<key>Resources/LayoutConstraintDescriptionInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oFS3rk75BqiJPCo30e4g3+OSC6xOEHqGq9h0wzgWqJ8=
+			</data>
+		</dict>
+		<key>Resources/LayoutConstraintDetailInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OW1fpqirSwz58ANnkRBDR2AEuhCewKYtK/j57gVCvvo=
+			</data>
+		</dict>
+		<key>Resources/LayoutConstraintInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sMTT7lrv7ZsmVHm1UTWFaBW3Bv2nF+C671JSPUNvAQc=
 			</data>
 		</dict>
 		<key>Resources/LayoutIssuesInspectorItemView.nib</key>
@@ -2531,77 +2493,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0PXGu82+rtr0KkQKWW96JaxgW4HdbXGnQuXE57FrHLM=
+			0qhFyw42tOVFY3WDq8tOSYSl6hLIdCpeKlMn4gXU1UI=
 			</data>
 		</dict>
-		<key>Resources/Localizable.strings</key>
+		<key>Resources/LocaleInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlFW9UIgS3CPwUfmjUc1FxA8GbjDesZcBJpVL5DX538=
+			OAbGwsre/vvleAsYq0XBfY8rFV62ALCftcBmubgqqpk=
 			</data>
 		</dict>
-		<key>Resources/Localizable.stringsdict</key>
+		<key>Resources/NumberInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H8NSnohQvcohYjosSS404f4kdYeUHBltwu+E6rorlFQ=
+			cDeCVh2Rixmdw4nghb/KdNhcHjvdXPXGx0Bzzc2UKVg=
+			</data>
+		</dict>
+		<key>Resources/ObjectIdentifierInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PXbJ1s/ex5ba5Aevsjap8Ab2Gudw/WQmsgZv9YX9sR0=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/FbK-ZH-luf-view-tAL-fR-O7E.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jcFu6LUoscijBMjI6hfQamzdZLxqCLNcQj54kGbi0Oo=
+			MOd5iTnhwMFxqLRafXDHT7ctGyG7xdarizpyyCqYrJ0=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+Ylzuvc633y2M47TeBJV1M9SF9zooReE0W2bDtn164=
+			nGl0vmYfV8F499YnArmenGX8/iC6xJb2VwCXffCdbj0=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/LnZ-ps-XF0-view-vQO-ce-jYj.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1KDmowkPV9+tYsOWb4z7+HbWXEohWp86VZPODb1jLHs=
+			5yNAl991tm5/iJyx0NwxUenOp2WRuGTQX7P2Oq5yH0Y=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/NSViewController-FbK-ZH-luf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lOn5BNDIcrT8Z34c4azCFZ1AcG3bdngYGN16xsa3DS8=
+			y7hvCshJUReZPmTcRBHi7sFiytiAe9c2xDECw1tHHzs=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/NSWindowController-6cU-qq-JHg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OnveCIZhW56hOy5QdKdEjV35IfYAmoKGVY9MNtPWBb0=
+			+gj+JATmGNOaBDcm1hQxIR+Rq3qqQVTOXUpG30wQ40U=
 			</data>
 		</dict>
 		<key>Resources/Preferences.storyboardc/r0R-Ee-yF2-view-sKv-4K-9fM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fl5zxjAvD9gCbvC8xgokcR3k0+i9QXmGWnO1XYZeX/8=
+			zn6Vx+wRS7OSR95VxAWlZ3XnrqDw5mvEiW/qJY72+hM=
+			</data>
+		</dict>
+		<key>Resources/QuadNumberFieldViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0tXKYUvcuw7NZ0p03bRMBobqaXiiTxUNHzQ6HzEh0c4=
 			</data>
 		</dict>
 		<key>Resources/Reveal Acknowledgements.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9/+miHv2+XamC0gJxGx8ZJtuZSdZJ21z2YQFl2y4jhw=
+			qpkOBeh7qWeF0gusdfsr89K6ek0Xzn6pJN3QQ3wJDKA=
 			</data>
 		</dict>
 		<key>Resources/Reveal Keyboard Shortcuts.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Fvtwp0Nbdl3bmL5jzl3qQVjczjrPihpFIsP/JZelhs=
+			W5raxC9NzalrWWE/LfQVk3wnsi37mQJ2VsA7PBSps9U=
 			</data>
 		</dict>
 		<key>Resources/Reveal.icns</key>
@@ -2615,7 +2591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			is4W+C+2GhKIpINiCyVmpO+4BN0AWOWSweSHMyCeEl8=
+			uLSboa8Iet53ZRlRDNbc63KPYXhYV4kyPEBzbWlTsFk=
 			</data>
 		</dict>
 		<key>Resources/RevealBeta.icns</key>
@@ -2637,6 +2613,13 @@
 			<key>hash2</key>
 			<data>
 			IYLoBB+tZvnC+bfcyZtXke+CifNgsrzm3PbEfRBQ3jw=
+			</data>
+		</dict>
+		<key>Resources/SampleAppWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mLgqHxUAdLPacxPJlM5OTxqr4Eqr0vgEKZcXhG/tDJY=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/AppIcon29x29@2x.png</key>
@@ -2734,7 +2717,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EYmkL2oLsaFLwBfw91PycyyrmQSgPjQ/K1CIm0qDcco=
+			UgNXhAidXIHusu0SI6p2gYm1V8FAyxWlVvEqKwJdx90=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/FakePeople.plist</key>
@@ -2762,35 +2745,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KNdrrlD7dfSCSP64HjUJT7AZ2HpbdP8aSFbFcG858GM=
+			YFV8kDIufxtbfocIpZPKPnje3412tA6TIIP5gmBLaxc=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/IBAAuthorProfileViewController~ipad.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kb8DXyYycqMJT5cRjw8St7lJAv7fmO1pc821/COWh5c=
+			uyIDy6TyBe1uBO7UFRykI1A5nyF0ONBFVPzqJA4xCAs=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/IBARecordTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ROaKnHxJIBDGrra4yYSoipCOl2xFL0tMQrNJWH7MEwk=
+			OTtQIEB2XliKsYx1kR5xxGuoe4w2k0iVB16gpZNufC4=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/IBARecordsListViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z88BT4jiWnn2p5svRbCLEm6sc0nIx2t1V3N851UGNOM=
+			vuhEy1h2jghBdVTIRIDlqUZC5Ox+YW8I7wEE1VUQZVw=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kqs1Cc0aUuYjAPgFX07WQ37ZxUkncVqtetOyXS195sw=
+			tYZnm6HOFaxklsY28W52TPdtXlK76QXv0T/ywOqugLM=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/LaunchImage-1100-Portrait-2436h@3x.png</key>
@@ -2867,14 +2850,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChVShgVbTrc2uxyo3EywJNl03L9K0O82Ic3/gRQs03o=
+			GJ0HiCw8AZnXBI9qxBrNxwVcNy538IE/1KmX2oIEYxg=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylIdUmgAUq/iLutxibvRlXSflHSMnxt3+lInPfLi0SY=
+			4qB2/1JqdS6lZP6Vp+U34x0tTLvcpU6RDxJydcK2QYo=
 			</data>
 		</dict>
 		<key>Resources/Samples/Soundstagram.app/cafe.m4a</key>
@@ -3537,18 +3520,46 @@
 			JivUXyIjBkvEVdNRpj8noIfP0z4W7GFUczpWlteBcLI=
 			</data>
 		</dict>
+		<key>Resources/ScreenModeInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eNSskXQrDsBEAXek2AmkDgPa8W75c9N2JKRWt1BUE9Q=
+			</data>
+		</dict>
 		<key>Resources/Snapshot Document Icon.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U9nNEwVyurSXoNY5tn1qxhJ6g6qAYduQUpPaCIqEL1w=
+			hKo9oBEkcGcAU+Xike6zTjdVnyTP8UPkg/HCdNRi1Ls=
+			</data>
+		</dict>
+		<key>Resources/TextInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4LNeLAcVqwN8+dM429QHW+13aQmDiyLTOPoxQLHSynQ=
+			</data>
+		</dict>
+		<key>Resources/TimeZoneInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7+C/bRKp7ZULGI8I1sEBNap6W3JwiotiFQgdYubWtq0=
+			</data>
+		</dict>
+		<key>Resources/TransformationMatrixInspectorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lMJcZ3bgWnIDktRbnMQlmEIrU/xSPeglki5rtNERZuM=
 			</data>
 		</dict>
 		<key>Resources/UUIDInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVv/lS8QNTIZXsqceP1frrgOyBNWQX7yrz7fRJUYgk0=
+			brWjBQvhRo7cnIiQGW/BX1p0t4LAyCPbAQmS3Ui4x7A=
 			</data>
 		</dict>
 		<key>Resources/ViewHierarchyFilterResultViewController.nib</key>
@@ -3562,35 +3573,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oBHAwQWgC5orCY7Je6WFTKErMeXpYcg5pQhy47pQHgQ=
+			79ZvbmDRwCS2ma4OkSJtt7k45zSGSwSTEGI4Xbadl5M=
 			</data>
 		</dict>
 		<key>Resources/Welcome.storyboardc/Fei-Mq-SkV-view-6q4-ed-LI6.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ahBkNTPNxNrduwSKFQGOIwikdAY8WfPNyaNQTfHrGU=
+			LLh9IKL/1d4HP/aiJtUTPaV+rKESqouB8f3X2LKnEq4=
 			</data>
 		</dict>
 		<key>Resources/Welcome.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cyX1MNk3SLAATnrnx4QC5M9Q2thN3PIy/0Djb/p4MAI=
+			DVwgVpsUhO3DNf6WpEYpTIk1HNoz6XrVOzrornFxmxY=
 			</data>
 		</dict>
 		<key>Resources/Welcome.storyboardc/Vgp-Dw-liE-view-JsD-VL-dez.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O0rY+xstqDdpC95bt20Et3jfBRy9sdBCpOPq5oI1Sw4=
+			enHBYiym3mNguOsmk6kti44pfy62yE+2y1QFyWMW4NM=
 			</data>
 		</dict>
 		<key>Resources/Welcome.storyboardc/WelcomeContentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IIZ1E0yPbRVjgTYeAGMzNuehkrGZzu1JOXuMntrId50=
+			aYx9NdF1kVlCUs3mEle85l0ijKM0pIgTVVcOyakinqU=
 			</data>
 		</dict>
 		<key>Resources/cheer.mp3</key>
@@ -3620,28 +3631,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FW65ZwogwQip45ZXqvFKhFy7mY3uv7IfAmR4RB8fQrY=
+			qgmKtaXiQx7tpom4SQDln0B7ixNkJvPmn/kPkoF9970=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Integrating Reveal Linking.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zoG3LnGU0OPswmSfCukrPit6kXDuH5b0DHXW49OYYKs=
+			5Fh+WFPk4X06G/xIyDvdiCFTxvNHdlCbqLPvc3VnPIw=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Integrating Using Breakpoints.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t4Eg7Q3eUqcRVrn8VQTpv9j9FmzaUFbhSpmpAVGoHMQ=
+			FjifWbjj3/B68w3zJ3UZ5kZPF74fTkjnw+nvLDxEncQ=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Integrating Using CocoaPods.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p5hi1PaMCbvlTpuUdl82MJDYVlAt8ewJU+WE/rphlc0=
+			lKiiQh1z4A+jtkaIpwGRsvR5G0k4bZP4R7u4z5abjoA=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/LICENSE.html</key>
@@ -3655,7 +3666,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NTinughiP3nIjWNRq7CyvxTROa/M6sHLKWEsAhEsMFY=
+			ZRaA5mKRzuc2DtwX3DAmM59F4dpAcRxl51kuk+Sz0jQ=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Remove Reveal from your Xcode Project.html</key>
@@ -3669,14 +3680,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdhei2cKKq9Icxg0Zcwuj8IEoGmZraDBYZ5G8SvpuNU=
+			qpkOBeh7qWeF0gusdfsr89K6ek0Xzn6pJN3QQ3wJDKA=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Reveal Integration Guide.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kzEntyuavUpWqNiSx8IMO9PgE4rRqQpRkIjxwIr6ZB0=
+			TuKVLRlxY4WR8k9G2DpaaC7CUylcJwI42nVEg0O/GCA=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/Reveal Keyboard Shortcuts.html</key>
@@ -3697,7 +3708,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			owHWcxi49TCXRqSa3mG11VzBpU5xIXboiZwUS5bFavg=
+			j717zu4rvghrl7zwsm/exK3z2TsgNhk8ZSq9gk0AaBk=
 			</data>
 		</dict>
 		<key>SharedSupport/Documentation/images/add-linker-flags.jpg</key>
@@ -3809,7 +3820,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BE5FodmuEFbWFqPckgXhE4+Zoc/Q1TcvlKqQMcnQNUs=
+			yF2yg1iSiwCDDtvgVVl5gZaLgSf5oehnzHcZjcFJfRA=
 			</data>
 		</dict>
 		<key>SharedSupport/iOS-Libraries/RevealServer.framework/Modules/module.modulemap</key>
@@ -3823,7 +3834,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bcpTCNWNBvDDAnE6MGN5vR35Umlyrp4aQ5ySEE/bEdY=
+			b22FVe0ztCK34X5WOElTrWZWKktk3QKRMUQwKHZcJu0=
 			</data>
 		</dict>
 		<key>SharedSupport/iOS-Libraries/RevealServer.framework/Scripts/copy_and_codesign_revealserver.sh</key>
@@ -3837,7 +3848,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3FdCfPscsBdbtjErj/4AzoFjt4lw4NGUU8oRgtLFZ2Q=
+			o93Sy+5AkT6i9GKo474m1z79Itgni4t2fud4iFjlVu4=
 			</data>
 		</dict>
 		<key>SharedSupport/tvOS-Libraries/RevealServer.framework/Headers/RevealServer.h</key>
@@ -3851,7 +3862,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G+PVsCrgomjG0MQyTzCTpYTE7OGKUKU/2Zi6uhGYrO0=
+			mIKmeiM+cdHrEt/gCBF8MAo4So1VeHAsv2vqRoVQXr4=
 			</data>
 		</dict>
 		<key>SharedSupport/tvOS-Libraries/RevealServer.framework/Modules/module.modulemap</key>
@@ -3865,7 +3876,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EHmH7QoeZPdD233nHnwMApUSRBrdf3wCP15lJwdP3hA=
+			3yzTUWw1zXCOPfYNwVXY5TtipuphhspeNdB3PSubpd0=
 			</data>
 		</dict>
 		<key>SharedSupport/tvOS-Libraries/RevealServer.framework/Scripts/copy_and_codesign_revealserver.sh</key>
@@ -3879,14 +3890,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FYenAw45df2dpHZxRvT55i96iMbMLQH2hVCobtSjoN4=
+			rQ1IaQXk67KAtRHQIDIo+9kfuMmInlCJGltu7Wyi+gY=
 			</data>
 		</dict>
 		<key>XPCServices/RevealSimulatorHelper.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GN2bnpY8jxcciLwHcq+ZHJuRvrc=
+			zFoe/cLzjS7LewwCiUXG+b3nfAI=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.ittybittyapps.Reveal2.RevealSimulatorHelper" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = KBY3G4JPGC)</string>

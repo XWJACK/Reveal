@@ -217,7 +217,7 @@
         </enumeration>
 
         <command name="refresh" code="RevlRefr" description="Refresh the document or inspect an application in a matching or new document if it's not specified.">
-            <cocoa class="IBARefreshScriptCommand"/>
+            <cocoa class="Reveal.RefreshScriptCommand"/>
             <direct-parameter type="document" optional="yes" description="The document to refresh." />
             <parameter name="device name" code="rDNm" type="text" optional="yes" description="The device name.">
                 <cocoa key="DeviceName"/>
@@ -257,7 +257,7 @@
         </value-type>
 
         <class name="inspectable application" plural="inspectable applications" code="RSvc" description="Reveal inspectable application.">
-            <cocoa class="IBARevealInspectableApplication"/>
+            <cocoa class="Reveal.InspectableApplication"/>
             <property name="name" code="pnam" type="text" access="r" description="The application's name, e.g. 'My App'">
                 <cocoa key="name"/>
             </property>
@@ -282,7 +282,7 @@
         </class-extension>
 
         <class-extension extends="document" description="A Reveal document.">
-            <cocoa class="IBARevealDocument"/>
+            <cocoa class="Reveal.RevealDocument"/>
             <property name="inspected application" code="SSrv" description="The selected inspectable application">
                 <cocoa key="inspectableApplication"/>
                 <type type="inspectable application"/>
