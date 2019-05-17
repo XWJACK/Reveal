@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04744C602267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 04744C5E2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.h */; };
+		04744C612267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04744C5F2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.m */; };
+		04744C64226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.h in Headers */ = {isa = PBXBuildFile; fileRef = 04744C62226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.h */; };
+		04744C65226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04744C63226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.m */; };
 		04E2FA0221B91E5B003DEB82 /* RevealTweak.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA0021B91E5B003DEB82 /* RevealTweak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04E2FA1221B91EC8003DEB82 /* fishhook.c in Sources */ = {isa = PBXBuildFile; fileRef = 04E2FA0B21B91EC8003DEB82 /* fishhook.c */; };
 		04E2FA1321B91EC8003DEB82 /* fishhook.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E2FA0C21B91EC8003DEB82 /* fishhook.h */; };
@@ -29,6 +33,10 @@
 
 /* Begin PBXFileReference section */
 		040443D321EE27B4008E4C6F /* reverse.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = reverse.sh; path = Tools/reverse.sh; sourceTree = SOURCE_ROOT; };
+		04744C5E2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+XWJACK_IBAAppDelegate.h"; sourceTree = "<group>"; };
+		04744C5F2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_IBAAppDelegate.m"; sourceTree = "<group>"; };
+		04744C62226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+XWJACK_IBADocumentController.h"; sourceTree = "<group>"; };
+		04744C63226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+XWJACK_IBADocumentController.m"; sourceTree = "<group>"; };
 		04E2F9FD21B91E5B003DEB82 /* RevealTweak.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RevealTweak.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E2FA0021B91E5B003DEB82 /* RevealTweak.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RevealTweak.h; sourceTree = "<group>"; };
 		04E2FA0121B91E5B003DEB82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -138,6 +146,10 @@
 				04E2FA2821B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m */,
 				04FC061821BFC5F60033B569 /* NSObject+XWJACK_DMActivationController.h */,
 				04FC061921BFC5F60033B569 /* NSObject+XWJACK_DMActivationController.m */,
+				04744C5E2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.h */,
+				04744C5F2267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.m */,
+				04744C62226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.h */,
+				04744C63226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.m */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -165,6 +177,8 @@
 				04E2FA2521B92A86003DEB82 /* NSObject+XWJACK_Foundataion.h in Headers */,
 				04E2FA1321B91EC8003DEB82 /* fishhook.h in Headers */,
 				04FC061621BF8A070033B569 /* NSObject+XWJACK_NSApplication.h in Headers */,
+				04744C602267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.h in Headers */,
+				04744C64226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.h in Headers */,
 				04FC061A21BFC5F60033B569 /* NSObject+XWJACK_DMActivationController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +289,13 @@
 				04FC061721BF8A070033B569 /* NSObject+XWJACK_NSApplication.m in Sources */,
 				04E2FA2A21B948E6003DEB82 /* NSObject+XWJACK_LicenseBindingsModel.m in Sources */,
 				04E2FA2621B92A86003DEB82 /* NSObject+XWJACK_Foundataion.m in Sources */,
+				04744C65226720DA00D9122D /* NSObject+XWJACK_IBADocumentController.m in Sources */,
 				04FC060F21BF5DE80033B569 /* ReverseBegin.m in Sources */,
 				04FC061B21BFC5F60033B569 /* NSObject+XWJACK_DMActivationController.m in Sources */,
 				04FC061321BF5E1F0033B569 /* ReverseMethodHelper.m in Sources */,
 				04E2FA1221B91EC8003DEB82 /* fishhook.c in Sources */,
 				04E2FA2021B91F02003DEB82 /* RevealTweak.m in Sources */,
+				04744C612267201400D9122D /* NSObject+XWJACK_IBAAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
