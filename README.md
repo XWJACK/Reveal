@@ -1,13 +1,8 @@
 # Reveal
 
-Version: 20(11340)
+Version: 22(12224)
 
-![](images/1.png)
-
-## Success Platform
-
-Xcode Version 10.1 (10B61)
-MacOS 10.14.3
+![](images/3.png)
 
 # Usage
 

@@ -15,9 +15,9 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>20</string>
+	<string>22</string>
 	<key>CFBundleVersion</key>
-	<string>11340</string>
+	<string>12224</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 XWJACK. All rights reserved.</string>
 </dict>

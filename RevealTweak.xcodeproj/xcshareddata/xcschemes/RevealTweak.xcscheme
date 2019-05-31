@@ -44,6 +44,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
+         BundleIdentifier = "com.ittybittyapps.Reveal2"
          FilePath = "/Users/Jack/Documents/Crack/Reveal/Resources/Reveal.app">
       </PathRunnable>
       <MacroExpansion>

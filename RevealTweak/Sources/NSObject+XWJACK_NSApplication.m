@@ -28,11 +28,10 @@
     NSLog(@"🍇 XWJACK %s %@", _cmd, hook_result);
     return hook_result;
 }
-
 + (void)load {
-    Class H_NSApplication = objc_getClass("NSApplication");
-    xwjack_hookClassMethod(H_NSApplication, @selector(setPublicKeyWithString:), self.class, @selector(hook_setPublicKeyWithString:));
-    xwjack_hookMethod(H_NSApplication, @selector(MYJh8blWOIN1X2), self.class, @selector(hook_MYJh8blWOIN1X2));
-    xwjack_hookMethod(H_NSApplication, @selector(IcSU9NLYZQKD4gE), self.class, @selector(hook_IcSU9NLYZQKD4gE));
+//    Class H_NSApplication = objc_getClass("NSApplication");
+//    xwjack_hookClassMethod(H_NSApplication, @selector(setPublicKeyWithString:), self.class, @selector(hook_setPublicKeyWithString:));
+//    xwjack_hookMethod(H_NSApplication, @selector(MYJh8blWOIN1X2), self.class, @selector(hook_MYJh8blWOIN1X2));
+//    xwjack_hookMethod(H_NSApplication, @selector(IcSU9NLYZQKD4gE), self.class, @selector(hook_IcSU9NLYZQKD4gE));
 }
 @end

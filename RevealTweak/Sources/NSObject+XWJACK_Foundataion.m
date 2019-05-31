@@ -39,11 +39,14 @@
     NSLog(@"🍇 XWJACK %s \n%@", _cmd, obj);
     return hook_data;
 }
+//- (void)hook_enqueueNotification:(NSNotification *)notification postingStyle:(NSPostingStyle)postingStyle {
+//    [self hook_enqueueNotification:notification postingStyle:postingStyle];
+//}
 
 + (void)load {
     
-    [NSURLConnection jr_swizzleClassMethod:@selector(sendSynchronousRequest:returningResponse:error:) withClassMethod:@selector(hook_sendSynchronousRequest:returningResponse:error:) error:nil];
-    
+//    [NSURLConnection jr_swizzleClassMethod:@selector(sendSynchronousRequest:returningResponse:error:) withClassMethod:@selector(hook_sendSynchronousRequest:returningResponse:error:) error:nil];
+//    [NSNotificationQueue jr_swizzleMethod:@selector(enqueueNotification:postingStyle:) withMethod:@selector(hook_enqueueNotification:postingStyle:) error:nil];
 //    [NSJSONSerialization jr_swizzleClassMethod:@selector(dataWithJSONObject:options:error:) withClassMethod:@selector(hook_dataWithJSONObject:options:error:) error:nil];
 }
 @end
